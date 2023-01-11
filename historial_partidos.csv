@@ -1,0 +1,901 @@
+key_id,match_name,stage_name,group_name,match_date,match_time,stadium_name,city_name,country_name
+1,France v Mexico,group stage,Group 1,1930-07-13,15:00,Estadio Pocitos,Montevideo,Uruguay
+2,United States v Belgium,group stage,Group 4,1930-07-13,15:00,Estadio Gran Parque Central,Montevideo,Uruguay
+3,Yugoslavia v Brazil,group stage,Group 2,1930-07-14,12:45,Estadio Gran Parque Central,Montevideo,Uruguay
+4,Romania v Peru,group stage,Group 3,1930-07-14,14:50,Estadio Pocitos,Montevideo,Uruguay
+5,Argentina v France,group stage,Group 1,1930-07-15,16:00,Estadio Gran Parque Central,Montevideo,Uruguay
+6,Chile v Mexico,group stage,Group 1,1930-07-16,14:45,Estadio Gran Parque Central,Montevideo,Uruguay
+7,Yugoslavia v Bolivia,group stage,Group 2,1930-07-17,12:45,Estadio Gran Parque Central,Montevideo,Uruguay
+8,United States v Paraguay,group stage,Group 4,1930-07-17,14:45,Estadio Gran Parque Central,Montevideo,Uruguay
+9,Uruguay v Peru,group stage,Group 3,1930-07-18,14:30,Estadio Centenario,Montevideo,Uruguay
+10,Chile v France,group stage,Group 1,1930-07-19,12:50,Estadio Centenario,Montevideo,Uruguay
+11,Argentina v Mexico,group stage,Group 1,1930-07-19,15:00,Estadio Centenario,Montevideo,Uruguay
+12,Brazil v Bolivia,group stage,Group 2,1930-07-20,13:00,Estadio Centenario,Montevideo,Uruguay
+13,Paraguay v Belgium,group stage,Group 4,1930-07-20,15:00,Estadio Centenario,Montevideo,Uruguay
+14,Uruguay v Romania,group stage,Group 3,1930-07-21,14:50,Estadio Centenario,Montevideo,Uruguay
+15,Argentina v Chile,group stage,Group 1,1930-07-22,14:45,Estadio Centenario,Montevideo,Uruguay
+16,Argentina v United States,semi-finals,,1930-07-26,14:45,Estadio Centenario,Montevideo,Uruguay
+17,Uruguay v Yugoslavia,semi-finals,,1930-07-27,14:45,Estadio Centenario,Montevideo,Uruguay
+18,Uruguay v Argentina,final,,1930-07-30,14:15,Estadio Centenario,Montevideo,Uruguay
+19,Austria v France,round of 16,,1934-05-27,16:00,Stadio Benito Mussolini,Turin,Italy
+20,Czechoslovakia v Romania,round of 16,,1934-05-27,16:00,Stadio Littorio,Trieste,Italy
+21,Germany v Belgium,round of 16,,1934-05-27,16:00,Stadio Giovanni Berta,Florence,Italy
+22,Hungary v Egypt,round of 16,,1934-05-27,16:00,Stadio Giorgio Ascarelli,Naples,Italy
+23,Italy v United States,round of 16,,1934-05-27,16:00,Stadio Nazionale PNF,Rome,Italy
+24,Spain v Brazil,round of 16,,1934-05-27,16:00,Stadio Luigi Ferraris,Genoa,Italy
+25,Sweden v Argentina,round of 16,,1934-05-27,16:00,Stadio Renato Dall'Ara,Bologna,Italy
+26,Switzerland v Netherlands,round of 16,,1934-05-27,16:00,San Siro,Milan,Italy
+27,Austria v Hungary,quarter-finals,,1934-05-31,16:30,Stadio Renato Dall'Ara,Bologna,Italy
+28,Czechoslovakia v Switzerland,quarter-finals,,1934-05-31,16:30,Stadio Benito Mussolini,Turin,Italy
+29,Germany v Sweden,quarter-finals,,1934-05-31,16:30,San Siro,Milan,Italy
+30,Italy v Spain,quarter-finals,,1934-05-31,16:30,Stadio Giovanni Berta,Florence,Italy
+31,Italy v Spain,quarter-finals,,1934-06-01,16:30,Stadio Giovanni Berta,Florence,Italy
+32,Czechoslovakia v Germany,semi-finals,,1934-06-03,16:30,Stadio Nazionale PNF,Rome,Italy
+33,Italy v Austria,semi-finals,,1934-06-03,16:30,San Siro,Milan,Italy
+34,Germany v Austria,third-place match,,1934-06-07,18:00,Stadio Giorgio Ascarelli,Naples,Italy
+35,Italy v Czechoslovakia,final,,1934-06-10,17:00,Stadio Nazionale PNF,Rome,Italy
+36,Switzerland v Germany,round of 16,,1938-06-04,17:00,Parc des Princes,Paris,France
+37,Cuba v Romania,round of 16,,1938-06-05,17:00,Stade du T.O.E.C.,Toulouse,France
+38,France v Belgium,round of 16,,1938-06-05,17:00,Stade Olympique de Colombes,Paris,France
+39,Hungary v Dutch East Indies,round of 16,,1938-06-05,17:00,Vélodrome Municipal,Reims,France
+40,Italy v Norway,round of 16,,1938-06-05,17:00,Stade Vélodrome,Marseille,France
+41,Brazil v Poland,round of 16,,1938-06-05,17:30,Stade de la Meinau,Strasbourg,France
+42,Czechoslovakia v Netherlands,round of 16,,1938-06-05,18:30,Stade Jules Deschaseaux,Le Havre,France
+43,Cuba v Romania,round of 16,,1938-06-09,18:00,Stade du T.O.E.C.,Toulouse,France
+44,Switzerland v Germany,round of 16,,1938-06-09,18:00,Parc des Princes,Paris,France
+45,Brazil v Czechoslovakia,quarter-finals,,1938-06-12,17:00,Stade du Parc Lescure,Bordeaux,France
+46,Hungary v Switzerland,quarter-finals,,1938-06-12,17:00,Stade Victor Boucquey,Lille,France
+47,Italy v France,quarter-finals,,1938-06-12,17:00,Stade Olympique de Colombes,Paris,France
+48,Sweden v Cuba,quarter-finals,,1938-06-12,17:00,Stade du Fort Carré,Antibes,France
+49,Brazil v Czechoslovakia,quarter-finals,,1938-06-14,18:00,Stade du Parc Lescure,Bordeaux,France
+50,Hungary v Sweden,semi-finals,,1938-06-16,18:00,Parc des Princes,Paris,France
+51,Italy v Brazil,semi-finals,,1938-06-16,18:00,Stade Vélodrome,Marseille,France
+52,Brazil v Sweden,third-place match,,1938-06-19,17:00,Stade du Parc Lescure,Bordeaux,France
+53,Italy v Hungary,final,,1938-06-19,17:00,Stade Olympique de Colombes,Paris,France
+54,Brazil v Mexico,group stage,Group 1,1950-06-24,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+55,Yugoslavia v Switzerland,group stage,Group 1,1950-06-25,15:00,Estádio Independência,Belo Horizonte,Brazil
+56,England v Chile,group stage,Group 2,1950-06-25,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+57,Spain v United States,group stage,Group 2,1950-06-25,15:00,Estádio Vila Capanema,Curitiba,Brazil
+58,Sweden v Italy,group stage,Group 3,1950-06-25,15:00,Estádio do Pacaembu,São Paulo,Brazil
+59,Brazil v Switzerland,group stage,Group 1,1950-06-28,15:00,Estádio do Pacaembu,São Paulo,Brazil
+60,Yugoslavia v Mexico,group stage,Group 1,1950-06-28,15:00,Estádio dos Eucaliptos,Porto Alegre,Brazil
+61,Spain v Chile,group stage,Group 2,1950-06-29,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+62,United States v England,group stage,Group 2,1950-06-29,15:00,Estádio Independência,Belo Horizonte,Brazil
+63,Sweden v Paraguay,group stage,Group 3,1950-06-29,15:30,Estádio Vila Capanema,Curitiba,Brazil
+64,Brazil v Yugoslavia,group stage,Group 1,1950-07-01,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+65,Chile v United States,group stage,Group 2,1950-07-02,15:00,Estádio Ilha do Retiro,Recife,Brazil
+66,Spain v England,group stage,Group 2,1950-07-02,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+67,Italy v Paraguay,group stage,Group 3,1950-07-02,15:00,Estádio do Pacaembu,São Paulo,Brazil
+68,Uruguay v Bolivia,group stage,Group 4,1950-07-02,15:00,Estádio Independência,Belo Horizonte,Brazil
+69,Switzerland v Mexico,group stage,Group 1,1950-07-02,15:40,Estádio dos Eucaliptos,Porto Alegre,Brazil
+70,Brazil v Sweden,final round,,1950-07-09,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+71,Uruguay v Spain,final round,,1950-07-09,15:00,Estádio do Pacaembu,São Paulo,Brazil
+72,Brazil v Spain,final round,,1950-07-13,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+73,Uruguay v Sweden,final round,,1950-07-13,15:00,Estádio do Pacaembu,São Paulo,Brazil
+74,Sweden v Spain,final round,,1950-07-16,15:00,Estádio do Pacaembu,São Paulo,Brazil
+75,Uruguay v Brazil,final round,,1950-07-16,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+76,Brazil v Mexico,group stage,Group 1,1954-06-16,18:00,Charmilles Stadium,Geneva,Switzerland
+77,Yugoslavia v France,group stage,Group 1,1954-06-16,18:00,Stade Olympique de la Pontaise,Lausanne,Switzerland
+78,Austria v Scotland,group stage,Group 3,1954-06-16,18:00,Hardturm Stadium,Zürich,Switzerland
+79,Uruguay v Czechoslovakia,group stage,Group 3,1954-06-16,18:00,Wankdorf Stadium,Bern,Switzerland
+80,Switzerland v Italy,group stage,Group 4,1954-06-17,17:50,Stade Olympique de la Pontaise,Lausanne,Switzerland
+81,Hungary v South Korea,group stage,Group 2,1954-06-17,18:00,Hardturm Stadium,Zürich,Switzerland
+82,West Germany v Turkey,group stage,Group 2,1954-06-17,18:00,Wankdorf Stadium,Bern,Switzerland
+83,England v Belgium,group stage,Group 4,1954-06-17,18:10,St. Jakob Stadium,Basel,Switzerland
+84,Uruguay v Scotland,group stage,Group 3,1954-06-19,16:50,St. Jakob Stadium,Basel,Switzerland
+85,Brazil v Yugoslavia,group stage,Group 1,1954-06-19,17:00,Stade Olympique de la Pontaise,Lausanne,Switzerland
+86,Austria v Czechoslovakia,group stage,Group 3,1954-06-19,17:00,Hardturm Stadium,Zürich,Switzerland
+87,France v Mexico,group stage,Group 1,1954-06-19,17:10,Charmilles Stadium,Geneva,Switzerland
+88,Hungary v West Germany,group stage,Group 2,1954-06-20,16:50,St. Jakob Stadium,Basel,Switzerland
+89,Turkey v South Korea,group stage,Group 2,1954-06-20,17:00,Charmilles Stadium,Geneva,Switzerland
+90,Italy v Belgium,group stage,Group 4,1954-06-20,17:00,Cornaredo Stadium,Lugano,Switzerland
+91,England v Switzerland,group stage,Group 4,1954-06-20,17:10,Wankdorf Stadium,Bern,Switzerland
+92,West Germany v Turkey,group stage,Group 2,1954-06-23,18:00,Hardturm Stadium,Zürich,Switzerland
+93,Switzerland v Italy,group stage,Group 4,1954-06-23,18:00,St. Jakob Stadium,Basel,Switzerland
+94,Austria v Switzerland,quarter-finals,,1954-06-26,17:00,Stade Olympique de la Pontaise,Lausanne,Switzerland
+95,Uruguay v England,quarter-finals,,1954-06-26,17:00,St. Jakob Stadium,Basel,Switzerland
+96,Hungary v Brazil,quarter-finals,,1954-06-27,17:00,Wankdorf Stadium,Bern,Switzerland
+97,West Germany v Yugoslavia,quarter-finals,,1954-06-27,17:00,Charmilles Stadium,Geneva,Switzerland
+98,Hungary v Uruguay,semi-finals,,1954-06-30,18:00,Stade Olympique de la Pontaise,Lausanne,Switzerland
+99,West Germany v Austria,semi-finals,,1954-06-30,18:00,St. Jakob Stadium,Basel,Switzerland
+100,Austria v Uruguay,third-place match,,1954-07-03,17:00,Hardturm Stadium,Zürich,Switzerland
+101,West Germany v Hungary,final,,1954-07-04,17:00,Wankdorf Stadium,Bern,Switzerland
+102,Sweden v Mexico,group stage,Group 3,1958-06-08,14:00,Råsunda Stadium,Solna,Sweden
+103,Argentina v West Germany,group stage,Group 1,1958-06-08,19:00,Malmö Stadion,Malmö,Sweden
+104,Northern Ireland v Czechoslovakia,group stage,Group 1,1958-06-08,19:00,Örjans Vall,Halmstad,Sweden
+105,France v Paraguay,group stage,Group 2,1958-06-08,19:00,Idrottsparken,Norrköping,Sweden
+106,Yugoslavia v Scotland,group stage,Group 2,1958-06-08,19:00,Arosvallen,Västerås,Sweden
+107,Hungary v Wales,group stage,Group 3,1958-06-08,19:00,Jernvallen,Sandviken,Sweden
+108,Brazil v Austria,group stage,Group 4,1958-06-08,19:00,Rimnersvallen,Uddevalla,Sweden
+109,Soviet Union v England,group stage,Group 4,1958-06-08,19:00,Ullevi,Gothenburg,Sweden
+110,Argentina v Northern Ireland,group stage,Group 1,1958-06-11,19:00,Örjans Vall,Halmstad,Sweden
+111,West Germany v Czechoslovakia,group stage,Group 1,1958-06-11,19:00,Olympia,Helsingborg,Sweden
+112,Paraguay v Scotland,group stage,Group 2,1958-06-11,19:00,Idrottsparken,Norrköping,Sweden
+113,Yugoslavia v France,group stage,Group 2,1958-06-11,19:00,Arosvallen,Västerås,Sweden
+114,Mexico v Wales,group stage,Group 3,1958-06-11,19:00,Råsunda Stadium,Solna,Sweden
+115,Brazil v England,group stage,Group 4,1958-06-11,19:00,Ullevi,Gothenburg,Sweden
+116,Soviet Union v Austria,group stage,Group 4,1958-06-11,19:00,Ryavallen,Borås,Sweden
+117,Sweden v Hungary,group stage,Group 3,1958-06-12,19:00,Råsunda Stadium,Solna,Sweden
+118,Sweden v Wales,group stage,Group 3,1958-06-15,14:00,Råsunda Stadium,Solna,Sweden
+119,Czechoslovakia v Argentina,group stage,Group 1,1958-06-15,19:00,Olympia,Helsingborg,Sweden
+120,West Germany v Northern Ireland,group stage,Group 1,1958-06-15,19:00,Malmö Stadion,Malmö,Sweden
+121,France v Scotland,group stage,Group 2,1958-06-15,19:00,Eyravallen,Örebro,Sweden
+122,Paraguay v Yugoslavia,group stage,Group 2,1958-06-15,19:00,Tunavallen,Eskilstuna,Sweden
+123,Hungary v Mexico,group stage,Group 3,1958-06-15,19:00,Jernvallen,Sandviken,Sweden
+124,Brazil v Soviet Union,group stage,Group 4,1958-06-15,19:00,Ullevi,Gothenburg,Sweden
+125,England v Austria,group stage,Group 4,1958-06-15,19:00,Ryavallen,Borås,Sweden
+126,Northern Ireland v Czechoslovakia,group stage,Group 1,1958-06-17,19:00,Malmö Stadion,Malmö,Sweden
+127,Wales v Hungary,group stage,Group 3,1958-06-17,19:00,Råsunda Stadium,Solna,Sweden
+128,Soviet Union v England,group stage,Group 4,1958-06-17,19:00,Ullevi,Gothenburg,Sweden
+129,Brazil v Wales,quarter-finals,,1958-06-19,19:00,Ullevi,Gothenburg,Sweden
+130,France v Northern Ireland,quarter-finals,,1958-06-19,19:00,Idrottsparken,Norrköping,Sweden
+131,Sweden v Soviet Union,quarter-finals,,1958-06-19,19:00,Råsunda Stadium,Solna,Sweden
+132,West Germany v Yugoslavia,quarter-finals,,1958-06-19,19:00,Malmö Stadion,Malmö,Sweden
+133,Brazil v France,semi-finals,,1958-06-24,19:00,Råsunda Stadium,Solna,Sweden
+134,Sweden v West Germany,semi-finals,,1958-06-24,19:00,Ullevi,Gothenburg,Sweden
+135,France v West Germany,third-place match,,1958-06-28,17:00,Ullevi,Gothenburg,Sweden
+136,Brazil v Sweden,final,,1958-06-29,15:00,Råsunda Stadium,Solna,Sweden
+137,Uruguay v Colombia,group stage,Group 1,1962-05-30,15:00,Estadio Carlos Dittborn,Arica,Chile
+138,Chile v Switzerland,group stage,Group 2,1962-05-30,15:00,Estadio Nacional,Santiago,Chile
+139,Brazil v Mexico,group stage,Group 3,1962-05-30,15:00,Estadio Sausalito,Viña del Mar,Chile
+140,Argentina v Bulgaria,group stage,Group 4,1962-05-30,15:00,Estadio El Teniente,Rancagua,Chile
+141,Soviet Union v Yugoslavia,group stage,Group 1,1962-05-31,15:00,Estadio Carlos Dittborn,Arica,Chile
+142,West Germany v Italy,group stage,Group 2,1962-05-31,15:00,Estadio Nacional,Santiago,Chile
+143,Czechoslovakia v Spain,group stage,Group 3,1962-05-31,15:00,Estadio Sausalito,Viña del Mar,Chile
+144,Hungary v England,group stage,Group 4,1962-05-31,15:00,Estadio El Teniente,Rancagua,Chile
+145,Yugoslavia v Uruguay,group stage,Group 1,1962-06-02,15:00,Estadio Carlos Dittborn,Arica,Chile
+146,Chile v Italy,group stage,Group 2,1962-06-02,15:00,Estadio Nacional,Santiago,Chile
+147,Brazil v Czechoslovakia,group stage,Group 3,1962-06-02,15:00,Estadio Sausalito,Viña del Mar,Chile
+148,England v Argentina,group stage,Group 4,1962-06-02,15:00,Estadio El Teniente,Rancagua,Chile
+149,Soviet Union v Colombia,group stage,Group 1,1962-06-03,15:00,Estadio Carlos Dittborn,Arica,Chile
+150,West Germany v Switzerland,group stage,Group 2,1962-06-03,15:00,Estadio Nacional,Santiago,Chile
+151,Spain v Mexico,group stage,Group 3,1962-06-03,15:00,Estadio Sausalito,Viña del Mar,Chile
+152,Hungary v Bulgaria,group stage,Group 4,1962-06-03,15:00,Estadio El Teniente,Rancagua,Chile
+153,Soviet Union v Uruguay,group stage,Group 1,1962-06-06,15:00,Estadio Carlos Dittborn,Arica,Chile
+154,West Germany v Chile,group stage,Group 2,1962-06-06,15:00,Estadio Nacional,Santiago,Chile
+155,Brazil v Spain,group stage,Group 3,1962-06-06,15:00,Estadio Sausalito,Viña del Mar,Chile
+156,Hungary v Argentina,group stage,Group 4,1962-06-06,15:00,Estadio El Teniente,Rancagua,Chile
+157,Yugoslavia v Colombia,group stage,Group 1,1962-06-07,15:00,Estadio Carlos Dittborn,Arica,Chile
+158,Italy v Switzerland,group stage,Group 2,1962-06-07,15:00,Estadio Nacional,Santiago,Chile
+159,Mexico v Czechoslovakia,group stage,Group 3,1962-06-07,15:00,Estadio Sausalito,Viña del Mar,Chile
+160,England v Bulgaria,group stage,Group 4,1962-06-07,15:00,Estadio El Teniente,Rancagua,Chile
+161,Brazil v England,quarter-finals,,1962-06-10,14:30,Estadio Sausalito,Viña del Mar,Chile
+162,Chile v Soviet Union,quarter-finals,,1962-06-10,14:30,Estadio Carlos Dittborn,Arica,Chile
+163,Czechoslovakia v Hungary,quarter-finals,,1962-06-10,14:30,Estadio El Teniente,Rancagua,Chile
+164,Yugoslavia v West Germany,quarter-finals,,1962-06-10,14:30,Estadio Nacional,Santiago,Chile
+165,Brazil v Chile,semi-finals,,1962-06-13,14:30,Estadio Nacional,Santiago,Chile
+166,Czechoslovakia v Yugoslavia,semi-finals,,1962-06-13,14:30,Estadio Sausalito,Viña del Mar,Chile
+167,Chile v Yugoslavia,third-place match,,1962-06-16,14:30,Estadio Nacional,Santiago,Chile
+168,Brazil v Czechoslovakia,final,,1962-06-17,14:30,Estadio Nacional,Santiago,Chile
+169,England v Uruguay,group stage,Group 1,1966-07-11,19:30,Wembley Stadium,London,England
+170,West Germany v Switzerland,group stage,Group 2,1966-07-12,19:30,Hillsborough Stadium,Sheffield,England
+171,Brazil v Bulgaria,group stage,Group 3,1966-07-12,19:30,Goodison Park,Liverpool,England
+172,Soviet Union v North Korea,group stage,Group 4,1966-07-12,19:30,Ayresome Park,Middlesbrough,England
+173,France v Mexico,group stage,Group 1,1966-07-13,19:30,Wembley Stadium,London,England
+174,Argentina v Spain,group stage,Group 2,1966-07-13,19:30,Villa Park,Birmingham,England
+175,Portugal v Hungary,group stage,Group 3,1966-07-13,19:30,Old Trafford,Manchester,England
+176,Italy v Chile,group stage,Group 4,1966-07-13,19:30,Roker Park,Sunderland,England
+177,Uruguay v France,group stage,Group 1,1966-07-15,19:30,White City Stadium,London,England
+178,Spain v Switzerland,group stage,Group 2,1966-07-15,19:30,Hillsborough Stadium,Sheffield,England
+179,Hungary v Brazil,group stage,Group 3,1966-07-15,19:30,Goodison Park,Liverpool,England
+180,Chile v North Korea,group stage,Group 4,1966-07-15,19:30,Ayresome Park,Middlesbrough,England
+181,Argentina v West Germany,group stage,Group 2,1966-07-16,15:00,Villa Park,Birmingham,England
+182,Portugal v Bulgaria,group stage,Group 3,1966-07-16,15:00,Old Trafford,Manchester,England
+183,Soviet Union v Italy,group stage,Group 4,1966-07-16,15:00,Roker Park,Sunderland,England
+184,England v Mexico,group stage,Group 1,1966-07-16,19:30,Wembley Stadium,London,England
+185,Mexico v Uruguay,group stage,Group 1,1966-07-19,16:30,Wembley Stadium,London,England
+186,Argentina v Switzerland,group stage,Group 2,1966-07-19,19:30,Hillsborough Stadium,Sheffield,England
+187,Portugal v Brazil,group stage,Group 3,1966-07-19,19:30,Goodison Park,Liverpool,England
+188,North Korea v Italy,group stage,Group 4,1966-07-19,19:30,Ayresome Park,Middlesbrough,England
+189,England v France,group stage,Group 1,1966-07-20,19:30,Wembley Stadium,London,England
+190,West Germany v Spain,group stage,Group 2,1966-07-20,19:30,Villa Park,Birmingham,England
+191,Hungary v Bulgaria,group stage,Group 3,1966-07-20,19:30,Old Trafford,Manchester,England
+192,Soviet Union v Chile,group stage,Group 4,1966-07-20,19:30,Roker Park,Sunderland,England
+193,England v Argentina,quarter-finals,,1966-07-23,15:00,Wembley Stadium,London,England
+194,Portugal v North Korea,quarter-finals,,1966-07-23,15:00,Goodison Park,Liverpool,England
+195,Soviet Union v Hungary,quarter-finals,,1966-07-23,15:00,Roker Park,Sunderland,England
+196,West Germany v Uruguay,quarter-finals,,1966-07-23,15:00,Hillsborough Stadium,Sheffield,England
+197,West Germany v Soviet Union,semi-finals,,1966-07-25,19:30,Goodison Park,Liverpool,England
+198,England v Portugal,semi-finals,,1966-07-26,19:30,Wembley Stadium,London,England
+199,Portugal v Soviet Union,third-place match,,1966-07-28,19:30,Wembley Stadium,London,England
+200,England v West Germany,final,,1966-07-30,15:00,Wembley Stadium,London,England
+201,Mexico v Soviet Union,group stage,Group 1,1970-05-31,12:00,Estadio Azteca,Mexico City,Mexico
+202,Uruguay v Israel,group stage,Group 2,1970-06-02,16:00,Estadio Cuauhtémoc,Puebla,Mexico
+203,England v Romania,group stage,Group 3,1970-06-02,16:00,Estadio Jalisco,Guadalajara,Mexico
+204,Peru v Bulgaria,group stage,Group 4,1970-06-02,16:00,Estadio Nou Camp,León,Mexico
+205,Belgium v El Salvador,group stage,Group 1,1970-06-03,16:00,Estadio Azteca,Mexico City,Mexico
+206,Italy v Sweden,group stage,Group 2,1970-06-03,16:00,La Bombonera,Toluca,Mexico
+207,Brazil v Czechoslovakia,group stage,Group 3,1970-06-03,16:00,Estadio Jalisco,Guadalajara,Mexico
+208,West Germany v Morocco,group stage,Group 4,1970-06-03,16:00,Estadio Nou Camp,León,Mexico
+209,Soviet Union v Belgium,group stage,Group 1,1970-06-06,16:00,Estadio Azteca,Mexico City,Mexico
+210,Uruguay v Italy,group stage,Group 2,1970-06-06,16:00,Estadio Cuauhtémoc,Puebla,Mexico
+211,Romania v Czechoslovakia,group stage,Group 3,1970-06-06,16:00,Estadio Jalisco,Guadalajara,Mexico
+212,Peru v Morocco,group stage,Group 4,1970-06-06,16:00,Estadio Nou Camp,León,Mexico
+213,Mexico v El Salvador,group stage,Group 1,1970-06-07,12:00,Estadio Azteca,Mexico City,Mexico
+214,Sweden v Israel,group stage,Group 2,1970-06-07,12:00,La Bombonera,Toluca,Mexico
+215,Brazil v England,group stage,Group 3,1970-06-07,12:00,Estadio Jalisco,Guadalajara,Mexico
+216,West Germany v Bulgaria,group stage,Group 4,1970-06-07,12:00,Estadio Nou Camp,León,Mexico
+217,Soviet Union v El Salvador,group stage,Group 1,1970-06-10,16:00,Estadio Azteca,Mexico City,Mexico
+218,Sweden v Uruguay,group stage,Group 2,1970-06-10,16:00,Estadio Cuauhtémoc,Puebla,Mexico
+219,Brazil v Romania,group stage,Group 3,1970-06-10,16:00,Estadio Jalisco,Guadalajara,Mexico
+220,West Germany v Peru,group stage,Group 4,1970-06-10,16:00,Estadio Nou Camp,León,Mexico
+221,Mexico v Belgium,group stage,Group 1,1970-06-11,16:00,Estadio Azteca,Mexico City,Mexico
+222,Italy v Israel,group stage,Group 2,1970-06-11,16:00,La Bombonera,Toluca,Mexico
+223,England v Czechoslovakia,group stage,Group 3,1970-06-11,16:00,Estadio Jalisco,Guadalajara,Mexico
+224,Bulgaria v Morocco,group stage,Group 4,1970-06-11,16:00,Estadio Nou Camp,León,Mexico
+225,Brazil v Peru,quarter-finals,,1970-06-14,12:00,Estadio Jalisco,Guadalajara,Mexico
+226,Italy v Mexico,quarter-finals,,1970-06-14,12:00,La Bombonera,Toluca,Mexico
+227,Soviet Union v Uruguay,quarter-finals,,1970-06-14,12:00,Estadio Azteca,Mexico City,Mexico
+228,West Germany v England,quarter-finals,,1970-06-14,12:00,Estadio Nou Camp,León,Mexico
+229,Brazil v Uruguay,semi-finals,,1970-06-17,16:00,Estadio Jalisco,Guadalajara,Mexico
+230,Italy v West Germany,semi-finals,,1970-06-17,16:00,Estadio Azteca,Mexico City,Mexico
+231,West Germany v Uruguay,third-place match,,1970-06-20,16:00,Estadio Azteca,Mexico City,Mexico
+232,Brazil v Italy,final,,1970-06-21,12:00,Estadio Azteca,Mexico City,Mexico
+233,Brazil v Yugoslavia,group stage,Group 2,1974-06-13,17:00,Waldstadion,Frankfurt,Germany
+234,West Germany v Chile,group stage,Group 1,1974-06-14,16:00,Olympiastadion,Berlin,Germany
+235,East Germany v Australia,group stage,Group 1,1974-06-14,19:30,Volksparkstadion,Hamburg,Germany
+236,Zaire v Scotland,group stage,Group 2,1974-06-14,19:30,Westfalenstadion,Dortmund,Germany
+237,Sweden v Bulgaria,group stage,Group 3,1974-06-15,16:00,Rheinstadion,Düsseldorf,Germany
+238,Uruguay v Netherlands,group stage,Group 3,1974-06-15,16:00,Niedersachsenstadion,Hanover,Germany
+239,Italy v Haiti,group stage,Group 4,1974-06-15,18:00,Olympiastadion,Munich,Germany
+240,Poland v Argentina,group stage,Group 4,1974-06-15,18:00,Neckarstadion,Stuttgart,Germany
+241,Australia v West Germany,group stage,Group 1,1974-06-18,16:00,Volksparkstadion,Hamburg,Germany
+242,Chile v East Germany,group stage,Group 1,1974-06-18,19:00,Olympiastadion,Berlin,Germany
+243,Scotland v Brazil,group stage,Group 2,1974-06-18,19:30,Waldstadion,Frankfurt,Germany
+244,Yugoslavia v Zaire,group stage,Group 2,1974-06-18,19:30,Parkstadion,Gelsenkirchen,Germany
+245,Bulgaria v Uruguay,group stage,Group 3,1974-06-19,19:30,Niedersachsenstadion,Hanover,Germany
+246,Netherlands v Sweden,group stage,Group 3,1974-06-19,19:30,Westfalenstadion,Dortmund,Germany
+247,Argentina v Italy,group stage,Group 4,1974-06-19,19:30,Neckarstadion,Stuttgart,Germany
+248,Haiti v Poland,group stage,Group 4,1974-06-19,19:30,Olympiastadion,Munich,Germany
+249,Australia v Chile,group stage,Group 1,1974-06-22,16:00,Olympiastadion,Berlin,Germany
+250,Scotland v Yugoslavia,group stage,Group 2,1974-06-22,16:00,Waldstadion,Frankfurt,Germany
+251,Zaire v Brazil,group stage,Group 2,1974-06-22,16:00,Parkstadion,Gelsenkirchen,Germany
+252,East Germany v West Germany,group stage,Group 1,1974-06-22,19:30,Volksparkstadion,Hamburg,Germany
+253,Bulgaria v Netherlands,group stage,Group 3,1974-06-23,16:00,Westfalenstadion,Dortmund,Germany
+254,Sweden v Uruguay,group stage,Group 3,1974-06-23,16:00,Rheinstadion,Düsseldorf,Germany
+255,Argentina v Haiti,group stage,Group 4,1974-06-23,16:00,Olympiastadion,Munich,Germany
+256,Poland v Italy,group stage,Group 4,1974-06-23,16:00,Neckarstadion,Stuttgart,Germany
+257,Yugoslavia v West Germany,second group stage,Group B,1974-06-26,16:00,Rheinstadion,Düsseldorf,Germany
+258,Brazil v East Germany,second group stage,Group A,1974-06-26,19:30,Niedersachsenstadion,Hanover,Germany
+259,Netherlands v Argentina,second group stage,Group A,1974-06-26,19:30,Parkstadion,Gelsenkirchen,Germany
+260,Sweden v Poland,second group stage,Group B,1974-06-26,19:30,Neckarstadion,Stuttgart,Germany
+261,Argentina v Brazil,second group stage,Group A,1974-06-30,16:00,Niedersachsenstadion,Hanover,Germany
+262,East Germany v Netherlands,second group stage,Group A,1974-06-30,16:00,Parkstadion,Gelsenkirchen,Germany
+263,Poland v Yugoslavia,second group stage,Group B,1974-06-30,16:00,Waldstadion,Frankfurt,Germany
+264,West Germany v Sweden,second group stage,Group B,1974-06-30,19:30,Rheinstadion,Düsseldorf,Germany
+265,Poland v West Germany,second group stage,Group B,1974-07-03,16:30,Waldstadion,Frankfurt,Germany
+266,Argentina v East Germany,second group stage,Group A,1974-07-03,19:30,Parkstadion,Gelsenkirchen,Germany
+267,Netherlands v Brazil,second group stage,Group A,1974-07-03,19:30,Westfalenstadion,Dortmund,Germany
+268,Sweden v Yugoslavia,second group stage,Group B,1974-07-03,19:30,Rheinstadion,Düsseldorf,Germany
+269,Brazil v Poland,third-place match,,1974-07-06,16:00,Olympiastadion,Munich,Germany
+270,Netherlands v West Germany,final,,1974-07-07,16:00,Olympiastadion,Munich,Germany
+271,West Germany v Poland,group stage,Group 2,1978-06-01,15:00,Estadio Monumental,Buenos Aires,Argentina
+272,Italy v France,group stage,Group 1,1978-06-02,13:45,Estadio José María Minella,Mar del Plata,Argentina
+273,Tunisia v Mexico,group stage,Group 2,1978-06-02,16:45,Estadio Gigante de Arroyito,Rosario,Argentina
+274,Argentina v Hungary,group stage,Group 1,1978-06-02,19:15,Estadio Monumental,Buenos Aires,Argentina
+275,Austria v Spain,group stage,Group 3,1978-06-03,13:45,Estadio José Amalfitani,Buenos Aires,Argentina
+276,Brazil v Sweden,group stage,Group 3,1978-06-03,13:45,Estadio José María Minella,Mar del Plata,Argentina
+277,Netherlands v Iran,group stage,Group 4,1978-06-03,16:45,Estadio Ciudad de Mendoza,Mendoza,Argentina
+278,Peru v Scotland,group stage,Group 4,1978-06-03,16:45,Estadio Chateau Carreras,Córdoba,Argentina
+279,Italy v Hungary,group stage,Group 1,1978-06-06,13:45,Estadio José María Minella,Mar del Plata,Argentina
+280,Poland v Tunisia,group stage,Group 2,1978-06-06,16:45,Estadio Gigante de Arroyito,Rosario,Argentina
+281,West Germany v Mexico,group stage,Group 2,1978-06-06,16:45,Estadio Chateau Carreras,Córdoba,Argentina
+282,Argentina v France,group stage,Group 1,1978-06-06,19:15,Estadio Monumental,Buenos Aires,Argentina
+283,Austria v Sweden,group stage,Group 3,1978-06-07,13:45,Estadio José Amalfitani,Buenos Aires,Argentina
+284,Brazil v Spain,group stage,Group 3,1978-06-07,13:45,Estadio José María Minella,Mar del Plata,Argentina
+285,Netherlands v Peru,group stage,Group 4,1978-06-07,16:45,Estadio Ciudad de Mendoza,Mendoza,Argentina
+286,Scotland v Iran,group stage,Group 4,1978-06-07,16:45,Estadio Chateau Carreras,Córdoba,Argentina
+287,France v Hungary,group stage,Group 1,1978-06-10,14:30,Estadio José María Minella,Mar del Plata,Argentina
+288,Poland v Mexico,group stage,Group 2,1978-06-10,16:45,Estadio Gigante de Arroyito,Rosario,Argentina
+289,West Germany v Tunisia,group stage,Group 2,1978-06-10,16:45,Estadio Chateau Carreras,Córdoba,Argentina
+290,Argentina v Italy,group stage,Group 1,1978-06-10,19:15,Estadio Monumental,Buenos Aires,Argentina
+291,Brazil v Austria,group stage,Group 3,1978-06-11,13:45,Estadio José María Minella,Mar del Plata,Argentina
+292,Spain v Sweden,group stage,Group 3,1978-06-11,13:45,Estadio José Amalfitani,Buenos Aires,Argentina
+293,Peru v Iran,group stage,Group 4,1978-06-11,16:45,Estadio Chateau Carreras,Córdoba,Argentina
+294,Scotland v Netherlands,group stage,Group 4,1978-06-11,16:45,Estadio Ciudad de Mendoza,Mendoza,Argentina
+295,Austria v Netherlands,second group stage,Group A,1978-06-14,13:45,Estadio Chateau Carreras,Córdoba,Argentina
+296,Italy v West Germany,second group stage,Group A,1978-06-14,13:45,Estadio Monumental,Buenos Aires,Argentina
+297,Brazil v Peru,second group stage,Group B,1978-06-14,16:45,Estadio Ciudad de Mendoza,Mendoza,Argentina
+298,Argentina v Poland,second group stage,Group B,1978-06-14,19:15,Estadio Gigante de Arroyito,Rosario,Argentina
+299,Peru v Poland,second group stage,Group B,1978-06-18,13:45,Estadio Ciudad de Mendoza,Mendoza,Argentina
+300,Italy v Austria,second group stage,Group A,1978-06-18,16:45,Estadio Monumental,Buenos Aires,Argentina
+301,Netherlands v West Germany,second group stage,Group A,1978-06-18,16:45,Estadio Chateau Carreras,Córdoba,Argentina
+302,Argentina v Brazil,second group stage,Group B,1978-06-18,19:15,Estadio Gigante de Arroyito,Rosario,Argentina
+303,Austria v West Germany,second group stage,Group A,1978-06-21,13:45,Estadio Chateau Carreras,Córdoba,Argentina
+304,Italy v Netherlands,second group stage,Group A,1978-06-21,13:45,Estadio Monumental,Buenos Aires,Argentina
+305,Brazil v Poland,second group stage,Group B,1978-06-21,16:45,Estadio Ciudad de Mendoza,Mendoza,Argentina
+306,Argentina v Peru,second group stage,Group B,1978-06-21,19:15,Estadio Gigante de Arroyito,Rosario,Argentina
+307,Brazil v Italy,third-place match,,1978-06-24,15:00,Estadio Monumental,Buenos Aires,Argentina
+308,Argentina v Netherlands,final,,1978-06-25,15:00,Estadio Monumental,Buenos Aires,Argentina
+309,Argentina v Belgium,group stage,Group 3,1982-06-13,20:00,Camp Nou,Barcelona,Spain
+310,Italy v Poland,group stage,Group 1,1982-06-14,17:15,Balaídos,Vigo,Spain
+311,Brazil v Soviet Union,group stage,Group 6,1982-06-14,21:00,Estadio Ramón Sánchez Pizjuán,Seville,Spain
+312,Peru v Cameroon,group stage,Group 1,1982-06-15,17:15,Estadio Riazor,A Coruña,Spain
+313,Hungary v El Salvador,group stage,Group 3,1982-06-15,21:00,Nuevo Estadio,Elche,Spain
+314,Scotland v New Zealand,group stage,Group 6,1982-06-15,21:00,Estadio La Rosaleda,Málaga,Spain
+315,West Germany v Algeria,group stage,Group 2,1982-06-16,17:15,Estadio El Molinón,Gijón,Spain
+316,England v France,group stage,Group 4,1982-06-16,17:15,Estadio San Mamés,Bilbao,Spain
+317,Spain v Honduras,group stage,Group 5,1982-06-16,21:00,Estadio Luis Casanova,Valencia,Spain
+318,Chile v Austria,group stage,Group 2,1982-06-17,17:15,Estadio Carlos Tartiere,Oviedo,Spain
+319,Czechoslovakia v Kuwait,group stage,Group 4,1982-06-17,17:15,Estadio José Zorrilla,Valladolid,Spain
+320,Yugoslavia v Northern Ireland,group stage,Group 5,1982-06-17,21:00,Estadio La Romareda,Zaragoza,Spain
+321,Italy v Peru,group stage,Group 1,1982-06-18,17:15,Balaídos,Vigo,Spain
+322,Argentina v Hungary,group stage,Group 3,1982-06-18,21:00,Estadio José Rico Pérez,Alicante,Spain
+323,Brazil v Scotland,group stage,Group 6,1982-06-18,21:00,Estadio Benito Villamarín,Seville,Spain
+324,Poland v Cameroon,group stage,Group 1,1982-06-19,17:15,Estadio Riazor,A Coruña,Spain
+325,Belgium v El Salvador,group stage,Group 3,1982-06-19,21:00,Nuevo Estadio,Elche,Spain
+326,Soviet Union v New Zealand,group stage,Group 6,1982-06-19,21:00,Estadio La Rosaleda,Málaga,Spain
+327,West Germany v Chile,group stage,Group 2,1982-06-20,17:15,Estadio El Molinón,Gijón,Spain
+328,England v Czechoslovakia,group stage,Group 4,1982-06-20,17:15,Estadio San Mamés,Bilbao,Spain
+329,Spain v Yugoslavia,group stage,Group 5,1982-06-20,21:00,Estadio Luis Casanova,Valencia,Spain
+330,Algeria v Austria,group stage,Group 2,1982-06-21,17:15,Estadio Carlos Tartiere,Oviedo,Spain
+331,France v Kuwait,group stage,Group 4,1982-06-21,17:15,Estadio José Zorrilla,Valladolid,Spain
+332,Honduras v Northern Ireland,group stage,Group 5,1982-06-21,21:00,Estadio La Romareda,Zaragoza,Spain
+333,Poland v Peru,group stage,Group 1,1982-06-22,17:15,Estadio Riazor,A Coruña,Spain
+334,Belgium v Hungary,group stage,Group 3,1982-06-22,21:00,Nuevo Estadio,Elche,Spain
+335,Soviet Union v Scotland,group stage,Group 6,1982-06-22,21:00,Estadio La Rosaleda,Málaga,Spain
+336,Italy v Cameroon,group stage,Group 1,1982-06-23,17:15,Balaídos,Vigo,Spain
+337,Argentina v El Salvador,group stage,Group 3,1982-06-23,21:00,Estadio José Rico Pérez,Alicante,Spain
+338,Brazil v New Zealand,group stage,Group 6,1982-06-23,21:00,Estadio Benito Villamarín,Seville,Spain
+339,Algeria v Chile,group stage,Group 2,1982-06-24,17:15,Estadio Carlos Tartiere,Oviedo,Spain
+340,France v Czechoslovakia,group stage,Group 4,1982-06-24,17:15,Estadio José Zorrilla,Valladolid,Spain
+341,Honduras v Yugoslavia,group stage,Group 5,1982-06-24,21:00,Estadio La Romareda,Zaragoza,Spain
+342,West Germany v Austria,group stage,Group 2,1982-06-25,17:15,Estadio El Molinón,Gijón,Spain
+343,England v Kuwait,group stage,Group 4,1982-06-25,17:15,Estadio San Mamés,Bilbao,Spain
+344,Spain v Northern Ireland,group stage,Group 5,1982-06-25,21:00,Estadio Luis Casanova,Valencia,Spain
+345,Austria v France,second group stage,Group 4,1982-06-28,17:15,Vicente Calderón,Madrid,Spain
+346,Poland v Belgium,second group stage,Group 1,1982-06-28,21:00,Camp Nou,Barcelona,Spain
+347,Italy v Argentina,second group stage,Group 3,1982-06-29,17:15,Estadi de Sarrià,Barcelona,Spain
+348,West Germany v England,second group stage,Group 2,1982-06-29,21:00,Estadio Santiago Bernabéu,Madrid,Spain
+349,Austria v Northern Ireland,second group stage,Group 4,1982-07-01,17:15,Vicente Calderón,Madrid,Spain
+350,Belgium v Soviet Union,second group stage,Group 1,1982-07-01,21:00,Camp Nou,Barcelona,Spain
+351,Argentina v Brazil,second group stage,Group 3,1982-07-02,17:15,Estadi de Sarrià,Barcelona,Spain
+352,West Germany v Spain,second group stage,Group 2,1982-07-02,21:00,Estadio Santiago Bernabéu,Madrid,Spain
+353,France v Northern Ireland,second group stage,Group 4,1982-07-04,17:15,Vicente Calderón,Madrid,Spain
+354,Soviet Union v Poland,second group stage,Group 1,1982-07-04,21:00,Camp Nou,Barcelona,Spain
+355,Italy v Brazil,second group stage,Group 3,1982-07-05,17:15,Estadi de Sarrià,Barcelona,Spain
+356,Spain v England,second group stage,Group 2,1982-07-05,21:00,Estadio Santiago Bernabéu,Madrid,Spain
+357,Poland v Italy,semi-finals,,1982-07-08,17:15,Camp Nou,Barcelona,Spain
+358,West Germany v France,semi-finals,,1982-07-08,21:00,Estadio Ramón Sánchez Pizjuán,Seville,Spain
+359,Poland v France,third-place match,,1982-07-10,20:00,Estadio José Rico Pérez,Alicante,Spain
+360,Italy v West Germany,final,,1982-07-11,20:00,Estadio Santiago Bernabéu,Madrid,Spain
+361,Bulgaria v Italy,group stage,Group A,1986-05-31,12:00,Estadio Azteca,Mexico City,Mexico
+362,Spain v Brazil,group stage,Group D,1986-06-01,12:00,Estadio Jalisco,Guadalajara,Mexico
+363,Canada v France,group stage,Group C,1986-06-01,16:00,Estadio Nou Camp,León,Mexico
+364,Argentina v South Korea,group stage,Group A,1986-06-02,12:00,Estadio Olímpico Universitario,Mexico City,Mexico
+365,Soviet Union v Hungary,group stage,Group C,1986-06-02,12:00,Estadio Sergio León Chavez,Irapuato,Mexico
+366,Morocco v Poland,group stage,Group F,1986-06-02,16:00,Estadio Universitario,Monterrey,Mexico
+367,Belgium v Mexico,group stage,Group B,1986-06-03,12:00,Estadio Azteca,Mexico City,Mexico
+368,Algeria v Northern Ireland,group stage,Group D,1986-06-03,12:00,Estadio Tres de Marzo,Guadalajara,Mexico
+369,Portugal v England,group stage,Group F,1986-06-03,16:00,Estadio Tecnológico,Monterrey,Mexico
+370,Paraguay v Iraq,group stage,Group B,1986-06-04,12:00,La Bombonera,Toluca,Mexico
+371,Uruguay v West Germany,group stage,Group E,1986-06-04,12:00,Estadio La Corregidora,Querétaro,Mexico
+372,Scotland v Denmark,group stage,Group E,1986-06-04,16:00,Estadio Neza 86,Nezahualcóyotl,Mexico
+373,Italy v Argentina,group stage,Group A,1986-06-05,12:00,Estadio Cuauhtémoc,Puebla,Mexico
+374,France v Soviet Union,group stage,Group C,1986-06-05,12:00,Estadio Nou Camp,León,Mexico
+375,South Korea v Bulgaria,group stage,Group A,1986-06-05,16:00,Estadio Olímpico Universitario,Mexico City,Mexico
+376,Hungary v Canada,group stage,Group C,1986-06-06,12:00,Estadio Sergio León Chavez,Irapuato,Mexico
+377,Brazil v Algeria,group stage,Group D,1986-06-06,12:00,Estadio Jalisco,Guadalajara,Mexico
+378,England v Morocco,group stage,Group F,1986-06-06,16:00,Estadio Tecnológico,Monterrey,Mexico
+379,Mexico v Paraguay,group stage,Group B,1986-06-07,12:00,Estadio Azteca,Mexico City,Mexico
+380,Northern Ireland v Spain,group stage,Group D,1986-06-07,12:00,Estadio Tres de Marzo,Guadalajara,Mexico
+381,Poland v Portugal,group stage,Group F,1986-06-07,16:00,Estadio Universitario,Monterrey,Mexico
+382,Iraq v Belgium,group stage,Group B,1986-06-08,12:00,La Bombonera,Toluca,Mexico
+383,West Germany v Scotland,group stage,Group E,1986-06-08,12:00,Estadio La Corregidora,Querétaro,Mexico
+384,Denmark v Uruguay,group stage,Group E,1986-06-08,16:00,Estadio Neza 86,Nezahualcóyotl,Mexico
+385,Hungary v France,group stage,Group C,1986-06-09,12:00,Estadio Nou Camp,León,Mexico
+386,Soviet Union v Canada,group stage,Group C,1986-06-09,12:00,Estadio Sergio León Chavez,Irapuato,Mexico
+387,Argentina v Bulgaria,group stage,Group A,1986-06-10,12:00,Estadio Olímpico Universitario,Mexico City,Mexico
+388,South Korea v Italy,group stage,Group A,1986-06-10,12:00,Estadio Cuauhtémoc,Puebla,Mexico
+389,Iraq v Mexico,group stage,Group B,1986-06-11,12:00,Estadio Azteca,Mexico City,Mexico
+390,Paraguay v Belgium,group stage,Group B,1986-06-11,12:00,La Bombonera,Toluca,Mexico
+391,England v Poland,group stage,Group F,1986-06-11,16:00,Estadio Universitario,Monterrey,Mexico
+392,Portugal v Morocco,group stage,Group F,1986-06-11,16:00,Estadio Tres de Marzo,Guadalajara,Mexico
+393,Algeria v Spain,group stage,Group D,1986-06-12,12:00,Estadio Tecnológico,Monterrey,Mexico
+394,Northern Ireland v Brazil,group stage,Group D,1986-06-12,12:00,Estadio Jalisco,Guadalajara,Mexico
+395,Denmark v West Germany,group stage,Group E,1986-06-13,12:00,Estadio La Corregidora,Querétaro,Mexico
+396,Scotland v Uruguay,group stage,Group E,1986-06-13,12:00,Estadio Neza 86,Nezahualcóyotl,Mexico
+397,Mexico v Bulgaria,round of 16,,1986-06-15,12:00,Estadio Azteca,Mexico City,Mexico
+398,Soviet Union v Belgium,round of 16,,1986-06-15,16:00,Estadio Nou Camp,León,Mexico
+399,Brazil v Poland,round of 16,,1986-06-16,12:00,Estadio Jalisco,Guadalajara,Mexico
+400,Argentina v Uruguay,round of 16,,1986-06-16,16:00,Estadio Cuauhtémoc,Puebla,Mexico
+401,Italy v France,round of 16,,1986-06-17,12:00,Estadio Olímpico Universitario,Mexico City,Mexico
+402,Morocco v West Germany,round of 16,,1986-06-17,16:00,Estadio Universitario,Monterrey,Mexico
+403,England v Paraguay,round of 16,,1986-06-18,12:00,Estadio Azteca,Mexico City,Mexico
+404,Denmark v Spain,round of 16,,1986-06-18,16:00,Estadio La Corregidora,Querétaro,Mexico
+405,Brazil v France,quarter-finals,,1986-06-21,12:00,Estadio Jalisco,Guadalajara,Mexico
+406,West Germany v Mexico,quarter-finals,,1986-06-21,16:00,Estadio Universitario,Monterrey,Mexico
+407,Argentina v England,quarter-finals,,1986-06-22,12:00,Estadio Azteca,Mexico City,Mexico
+408,Spain v Belgium,quarter-finals,,1986-06-22,16:00,Estadio Cuauhtémoc,Puebla,Mexico
+409,France v West Germany,semi-finals,,1986-06-25,12:00,Estadio Jalisco,Guadalajara,Mexico
+410,Argentina v Belgium,semi-finals,,1986-06-25,16:00,Estadio Azteca,Mexico City,Mexico
+411,Belgium v France,third-place match,,1986-06-28,12:00,Estadio Cuauhtémoc,Puebla,Mexico
+412,Argentina v West Germany,final,,1986-06-29,12:00,Estadio Azteca,Mexico City,Mexico
+413,Argentina v Cameroon,group stage,Group B,1990-06-08,18:00,San Siro,Milan,Italy
+414,Soviet Union v Romania,group stage,Group B,1990-06-09,17:00,Stadio San Nicola,Bari,Italy
+415,United Arab Emirates v Colombia,group stage,Group D,1990-06-09,17:00,Stadio Renato Dall'Ara,Bologna,Italy
+416,Italy v Austria,group stage,Group A,1990-06-09,21:00,Stadio Olimpico,Rome,Italy
+417,United States v Czechoslovakia,group stage,Group A,1990-06-10,17:00,Stadio Comunale,Florence,Italy
+418,Brazil v Sweden,group stage,Group C,1990-06-10,21:00,Stadio delle Alpi,Turin,Italy
+419,West Germany v Yugoslavia,group stage,Group D,1990-06-10,21:00,San Siro,Milan,Italy
+420,Costa Rica v Scotland,group stage,Group C,1990-06-11,17:00,Stadio Luigi Ferraris,Genoa,Italy
+421,England v Republic of Ireland,group stage,Group F,1990-06-11,21:00,Stadio Sant'Elia,Cagliari,Italy
+422,Belgium v South Korea,group stage,Group E,1990-06-12,17:00,Stadio Marc'Antonio Bentegodi,Verona,Italy
+423,Netherlands v Egypt,group stage,Group F,1990-06-12,21:00,Stadio La Favorita,Palermo,Italy
+424,Uruguay v Spain,group stage,Group E,1990-06-13,17:00,Stadio Friuli,Udine,Italy
+425,Argentina v Soviet Union,group stage,Group B,1990-06-13,21:00,Stadio San Paolo,Naples,Italy
+426,Cameroon v Romania,group stage,Group B,1990-06-14,17:00,Stadio San Nicola,Bari,Italy
+427,Yugoslavia v Colombia,group stage,Group D,1990-06-14,17:00,Stadio Renato Dall'Ara,Bologna,Italy
+428,Italy v United States,group stage,Group A,1990-06-14,21:00,Stadio Olimpico,Rome,Italy
+429,Austria v Czechoslovakia,group stage,Group A,1990-06-15,17:00,Stadio Comunale,Florence,Italy
+430,West Germany v United Arab Emirates,group stage,Group D,1990-06-15,21:00,San Siro,Milan,Italy
+431,Brazil v Costa Rica,group stage,Group C,1990-06-16,17:00,Stadio delle Alpi,Turin,Italy
+432,Sweden v Scotland,group stage,Group C,1990-06-16,21:00,Stadio Luigi Ferraris,Genoa,Italy
+433,England v Netherlands,group stage,Group F,1990-06-16,21:00,Stadio Sant'Elia,Cagliari,Italy
+434,Republic of Ireland v Egypt,group stage,Group F,1990-06-17,17:00,Stadio La Favorita,Palermo,Italy
+435,Belgium v Uruguay,group stage,Group E,1990-06-17,21:00,Stadio Marc'Antonio Bentegodi,Verona,Italy
+436,South Korea v Spain,group stage,Group E,1990-06-17,21:00,Stadio Friuli,Udine,Italy
+437,Argentina v Romania,group stage,Group B,1990-06-18,21:00,Stadio San Paolo,Naples,Italy
+438,Cameroon v Soviet Union,group stage,Group B,1990-06-18,21:00,Stadio San Nicola,Bari,Italy
+439,West Germany v Colombia,group stage,Group D,1990-06-19,17:00,San Siro,Milan,Italy
+440,Yugoslavia v United Arab Emirates,group stage,Group D,1990-06-19,17:00,Stadio Renato Dall'Ara,Bologna,Italy
+441,Austria v United States,group stage,Group A,1990-06-19,21:00,Stadio Comunale,Florence,Italy
+442,Italy v Czechoslovakia,group stage,Group A,1990-06-19,21:00,Stadio Olimpico,Rome,Italy
+443,Brazil v Scotland,group stage,Group C,1990-06-20,21:00,Stadio delle Alpi,Turin,Italy
+444,Sweden v Costa Rica,group stage,Group C,1990-06-20,21:00,Stadio Luigi Ferraris,Genoa,Italy
+445,Belgium v Spain,group stage,Group E,1990-06-21,17:00,Stadio Marc'Antonio Bentegodi,Verona,Italy
+446,South Korea v Uruguay,group stage,Group E,1990-06-21,17:00,Stadio Friuli,Udine,Italy
+447,England v Egypt,group stage,Group F,1990-06-21,21:00,Stadio Sant'Elia,Cagliari,Italy
+448,Republic of Ireland v Netherlands,group stage,Group F,1990-06-21,21:00,Stadio La Favorita,Palermo,Italy
+449,Cameroon v Colombia,round of 16,,1990-06-23,17:00,Stadio San Paolo,Naples,Italy
+450,Czechoslovakia v Costa Rica,round of 16,,1990-06-23,21:00,Stadio San Nicola,Bari,Italy
+451,Brazil v Argentina,round of 16,,1990-06-24,17:00,Stadio delle Alpi,Turin,Italy
+452,West Germany v Netherlands,round of 16,,1990-06-24,21:00,San Siro,Milan,Italy
+453,Republic of Ireland v Romania,round of 16,,1990-06-25,17:00,Stadio Luigi Ferraris,Genoa,Italy
+454,Italy v Uruguay,round of 16,,1990-06-25,21:00,Stadio Olimpico,Rome,Italy
+455,Spain v Yugoslavia,round of 16,,1990-06-26,17:00,Stadio Marc'Antonio Bentegodi,Verona,Italy
+456,England v Belgium,round of 16,,1990-06-26,21:00,Stadio Renato Dall'Ara,Bologna,Italy
+457,Argentina v Yugoslavia,quarter-finals,,1990-06-30,17:00,Stadio Comunale,Florence,Italy
+458,Republic of Ireland v Italy,quarter-finals,,1990-06-30,21:00,Stadio Olimpico,Rome,Italy
+459,Czechoslovakia v West Germany,quarter-finals,,1990-07-01,17:00,San Siro,Milan,Italy
+460,Cameroon v England,quarter-finals,,1990-07-01,21:00,Stadio San Paolo,Naples,Italy
+461,Argentina v Italy,semi-finals,,1990-07-03,20:00,Stadio San Paolo,Naples,Italy
+462,West Germany v England,semi-finals,,1990-07-04,20:00,Stadio delle Alpi,Turin,Italy
+463,Italy v England,third-place match,,1990-07-07,20:00,Stadio San Nicola,Bari,Italy
+464,West Germany v Argentina,final,,1990-07-08,20:00,Stadio Olimpico,Rome,Italy
+465,Germany v Bolivia,group stage,Group C,1994-06-17,14:00,Soldier Field,Chicago,United States
+466,Spain v South Korea,group stage,Group C,1994-06-17,18:30,Cotton Bowl,Dallas,United States
+467,United States v Switzerland,group stage,Group A,1994-06-18,11:30,Pontiac Silverdome,Pontiac,United States
+468,Italy v Republic of Ireland,group stage,Group E,1994-06-18,16:00,Giants Stadium,East Rutherford,United States
+469,Colombia v Romania,group stage,Group A,1994-06-18,16:30,Rose Bowl,Pasadena,United States
+470,Belgium v Morocco,group stage,Group F,1994-06-19,12:30,Citrus Bowl,Orlando,United States
+471,Norway v Mexico,group stage,Group E,1994-06-19,16:00,RFK Stadium,"Washington, D.C.",United States
+472,Cameroon v Sweden,group stage,Group B,1994-06-19,16:30,Rose Bowl,Pasadena,United States
+473,Brazil v Russia,group stage,Group B,1994-06-20,13:00,Stanford Stadium,Stanford,United States
+474,Netherlands v Saudi Arabia,group stage,Group F,1994-06-20,19:30,RFK Stadium,"Washington, D.C.",United States
+475,Argentina v Greece,group stage,Group D,1994-06-21,12:30,Foxboro Stadium,Foxborough,United States
+476,Germany v Spain,group stage,Group C,1994-06-21,15:00,Soldier Field,Chicago,United States
+477,Nigeria v Bulgaria,group stage,Group D,1994-06-21,18:30,Cotton Bowl,Dallas,United States
+478,Romania v Switzerland,group stage,Group A,1994-06-22,16:00,Pontiac Silverdome,Pontiac,United States
+479,United States v Colombia,group stage,Group A,1994-06-22,16:30,Rose Bowl,Pasadena,United States
+480,Italy v Norway,group stage,Group E,1994-06-23,16:00,Giants Stadium,East Rutherford,United States
+481,South Korea v Bolivia,group stage,Group C,1994-06-23,19:30,Foxboro Stadium,Foxborough,United States
+482,Mexico v Republic of Ireland,group stage,Group E,1994-06-24,12:30,Citrus Bowl,Orlando,United States
+483,Brazil v Cameroon,group stage,Group B,1994-06-24,13:00,Stanford Stadium,Stanford,United States
+484,Sweden v Russia,group stage,Group B,1994-06-24,19:30,Pontiac Silverdome,Pontiac,United States
+485,Belgium v Netherlands,group stage,Group F,1994-06-25,12:30,Citrus Bowl,Orlando,United States
+486,Saudi Arabia v Morocco,group stage,Group F,1994-06-25,12:30,Giants Stadium,East Rutherford,United States
+487,Argentina v Nigeria,group stage,Group D,1994-06-25,16:00,Foxboro Stadium,Foxborough,United States
+488,Bulgaria v Greece,group stage,Group D,1994-06-26,11:30,Soldier Field,Chicago,United States
+489,Switzerland v Colombia,group stage,Group A,1994-06-26,13:00,Stanford Stadium,Stanford,United States
+490,United States v Romania,group stage,Group A,1994-06-26,13:00,Rose Bowl,Pasadena,United States
+491,Bolivia v Spain,group stage,Group C,1994-06-27,15:00,Soldier Field,Chicago,United States
+492,Germany v South Korea,group stage,Group C,1994-06-27,15:00,Cotton Bowl,Dallas,United States
+493,Italy v Mexico,group stage,Group E,1994-06-28,12:30,RFK Stadium,"Washington, D.C.",United States
+494,Republic of Ireland v Norway,group stage,Group E,1994-06-28,12:30,Giants Stadium,East Rutherford,United States
+495,Russia v Cameroon,group stage,Group B,1994-06-28,13:00,Stanford Stadium,Stanford,United States
+496,Brazil v Sweden,group stage,Group B,1994-06-28,16:00,Pontiac Silverdome,Pontiac,United States
+497,Belgium v Saudi Arabia,group stage,Group F,1994-06-29,12:30,RFK Stadium,"Washington, D.C.",United States
+498,Morocco v Netherlands,group stage,Group F,1994-06-29,12:30,Citrus Bowl,Orlando,United States
+499,Argentina v Bulgaria,group stage,Group D,1994-06-30,18:30,Cotton Bowl,Dallas,United States
+500,Greece v Nigeria,group stage,Group D,1994-06-30,19:30,Foxboro Stadium,Foxborough,United States
+501,Germany v Belgium,round of 16,,1994-07-02,12:00,Soldier Field,Chicago,United States
+502,Spain v Switzerland,round of 16,,1994-07-02,16:30,RFK Stadium,"Washington, D.C.",United States
+503,Saudi Arabia v Sweden,round of 16,,1994-07-03,12:00,Cotton Bowl,Dallas,United States
+504,Romania v Argentina,round of 16,,1994-07-03,13:30,Rose Bowl,Pasadena,United States
+505,Netherlands v Republic of Ireland,round of 16,,1994-07-04,12:00,Citrus Bowl,Orlando,United States
+506,Brazil v United States,round of 16,,1994-07-04,12:30,Stanford Stadium,Stanford,United States
+507,Nigeria v Italy,round of 16,,1994-07-05,13:00,Foxboro Stadium,Foxborough,United States
+508,Mexico v Bulgaria,round of 16,,1994-07-05,16:30,Giants Stadium,East Rutherford,United States
+509,Italy v Spain,quarter-finals,,1994-07-09,12:00,Foxboro Stadium,Foxborough,United States
+510,Netherlands v Brazil,quarter-finals,,1994-07-09,14:30,Cotton Bowl,Dallas,United States
+511,Bulgaria v Germany,quarter-finals,,1994-07-10,12:00,Giants Stadium,East Rutherford,United States
+512,Romania v Sweden,quarter-finals,,1994-07-10,12:30,Stanford Stadium,Stanford,United States
+513,Bulgaria v Italy,semi-finals,,1994-07-13,16:00,Giants Stadium,East Rutherford,United States
+514,Sweden v Brazil,semi-finals,,1994-07-13,16:30,Rose Bowl,Pasadena,United States
+515,Sweden v Bulgaria,third-place match,,1994-07-16,12:30,Rose Bowl,Pasadena,United States
+516,Brazil v Italy,final,,1994-07-17,12:30,Rose Bowl,Pasadena,United States
+517,Brazil v Scotland,group stage,Group A,1998-06-10,17:30,Stade de France,Saint-Denis,France
+518,Morocco v Norway,group stage,Group A,1998-06-10,21:00,Stade de la Mosson,Montpellier,France
+519,Italy v Chile,group stage,Group B,1998-06-11,17:30,Stade du Parc Lescure,Bordeaux,France
+520,Cameroon v Austria,group stage,Group B,1998-06-11,21:00,Stade de Toulouse,Toulouse,France
+521,Paraguay v Bulgaria,group stage,Group D,1998-06-12,14:30,Stade de la Mosson,Montpellier,France
+522,Saudi Arabia v Denmark,group stage,Group C,1998-06-12,17:30,Stade Félix-Bollaert,Lens,France
+523,France v South Africa,group stage,Group C,1998-06-12,21:00,Stade Vélodrome,Marseille,France
+524,Spain v Nigeria,group stage,Group D,1998-06-13,14:30,Stade de la Beaujoire,Nantes,France
+525,South Korea v Mexico,group stage,Group E,1998-06-13,17:30,Stade de Gerland,Lyon,France
+526,Netherlands v Belgium,group stage,Group E,1998-06-13,21:00,Stade de France,Saint-Denis,France
+527,Argentina v Japan,group stage,Group H,1998-06-14,14:30,Stade de Toulouse,Toulouse,France
+528,Yugoslavia v Iran,group stage,Group F,1998-06-14,17:30,Stade Geoffroy-Guichard,Saint-Étienne,France
+529,Jamaica v Croatia,group stage,Group H,1998-06-14,21:00,Stade Félix-Bollaert,Lens,France
+530,England v Tunisia,group stage,Group G,1998-06-15,14:30,Stade Vélodrome,Marseille,France
+531,Romania v Colombia,group stage,Group G,1998-06-15,17:30,Stade de Gerland,Lyon,France
+532,Germany v United States,group stage,Group F,1998-06-15,21:00,Parc des Princes,Paris,France
+533,Scotland v Norway,group stage,Group A,1998-06-16,17:30,Stade du Parc Lescure,Bordeaux,France
+534,Brazil v Morocco,group stage,Group A,1998-06-16,21:00,Stade de la Beaujoire,Nantes,France
+535,Chile v Austria,group stage,Group B,1998-06-17,17:30,Stade Geoffroy-Guichard,Saint-Étienne,France
+536,Italy v Cameroon,group stage,Group B,1998-06-17,21:00,Stade de la Mosson,Montpellier,France
+537,South Africa v Denmark,group stage,Group C,1998-06-18,17:30,Stade de Toulouse,Toulouse,France
+538,France v Saudi Arabia,group stage,Group C,1998-06-18,21:00,Stade de France,Saint-Denis,France
+539,Nigeria v Bulgaria,group stage,Group D,1998-06-19,17:30,Parc des Princes,Paris,France
+540,Spain v Paraguay,group stage,Group D,1998-06-19,21:00,Stade Geoffroy-Guichard,Saint-Étienne,France
+541,Japan v Croatia,group stage,Group H,1998-06-20,14:30,Stade de la Beaujoire,Nantes,France
+542,Belgium v Mexico,group stage,Group E,1998-06-20,17:30,Stade du Parc Lescure,Bordeaux,France
+543,Netherlands v South Korea,group stage,Group E,1998-06-20,21:00,Stade Vélodrome,Marseille,France
+544,Germany v Yugoslavia,group stage,Group F,1998-06-21,14:30,Stade Félix-Bollaert,Lens,France
+545,Argentina v Jamaica,group stage,Group H,1998-06-21,17:30,Parc des Princes,Paris,France
+546,United States v Iran,group stage,Group F,1998-06-21,21:00,Stade de Gerland,Lyon,France
+547,Colombia v Tunisia,group stage,Group G,1998-06-22,17:30,Stade de la Mosson,Montpellier,France
+548,Romania v England,group stage,Group G,1998-06-22,21:00,Stade de Toulouse,Toulouse,France
+549,Chile v Cameroon,group stage,Group B,1998-06-23,16:00,Stade de la Beaujoire,Nantes,France
+550,Italy v Austria,group stage,Group B,1998-06-23,16:00,Stade de France,Saint-Denis,France
+551,Brazil v Norway,group stage,Group A,1998-06-23,21:00,Stade Vélodrome,Marseille,France
+552,Scotland v Morocco,group stage,Group A,1998-06-23,21:00,Stade Geoffroy-Guichard,Saint-Étienne,France
+553,France v Denmark,group stage,Group C,1998-06-24,16:00,Stade de Gerland,Lyon,France
+554,South Africa v Saudi Arabia,group stage,Group C,1998-06-24,16:00,Stade du Parc Lescure,Bordeaux,France
+555,Nigeria v Paraguay,group stage,Group D,1998-06-24,21:00,Stade de Toulouse,Toulouse,France
+556,Spain v Bulgaria,group stage,Group D,1998-06-24,21:00,Stade Félix-Bollaert,Lens,France
+557,Belgium v South Korea,group stage,Group E,1998-06-25,16:00,Parc des Princes,Paris,France
+558,Netherlands v Mexico,group stage,Group E,1998-06-25,16:00,Stade Geoffroy-Guichard,Saint-Étienne,France
+559,Germany v Iran,group stage,Group F,1998-06-25,21:00,Stade de la Mosson,Montpellier,France
+560,United States v Yugoslavia,group stage,Group F,1998-06-25,21:00,Stade de la Beaujoire,Nantes,France
+561,Argentina v Croatia,group stage,Group H,1998-06-26,16:00,Stade du Parc Lescure,Bordeaux,France
+562,Japan v Jamaica,group stage,Group H,1998-06-26,16:00,Stade de Gerland,Lyon,France
+563,Colombia v England,group stage,Group G,1998-06-26,21:00,Stade Félix-Bollaert,Lens,France
+564,Romania v Tunisia,group stage,Group G,1998-06-26,21:00,Stade de France,Saint-Denis,France
+565,Italy v Norway,round of 16,,1998-06-27,16:30,Stade Vélodrome,Marseille,France
+566,Brazil v Chile,round of 16,,1998-06-27,21:00,Parc des Princes,Paris,France
+567,France v Paraguay,round of 16,,1998-06-28,16:30,Stade Félix-Bollaert,Lens,France
+568,Nigeria v Denmark,round of 16,,1998-06-28,21:00,Stade de France,Saint-Denis,France
+569,Germany v Mexico,round of 16,,1998-06-29,16:30,Stade de la Mosson,Montpellier,France
+570,Netherlands v Yugoslavia,round of 16,,1998-06-29,21:00,Stade de Toulouse,Toulouse,France
+571,Romania v Croatia,round of 16,,1998-06-30,16:30,Stade du Parc Lescure,Bordeaux,France
+572,Argentina v England,round of 16,,1998-06-30,21:00,Stade Geoffroy-Guichard,Saint-Étienne,France
+573,Italy v France,quarter-finals,,1998-07-03,16:30,Stade de France,Saint-Denis,France
+574,Brazil v Denmark,quarter-finals,,1998-07-03,21:00,Stade de la Beaujoire,Nantes,France
+575,Netherlands v Argentina,quarter-finals,,1998-07-04,16:30,Stade Vélodrome,Marseille,France
+576,Germany v Croatia,quarter-finals,,1998-07-04,21:00,Stade de Gerland,Lyon,France
+577,Brazil v Netherlands,semi-finals,,1998-07-07,21:00,Stade Vélodrome,Marseille,France
+578,France v Croatia,semi-finals,,1998-07-08,21:00,Stade de France,Saint-Denis,France
+579,Netherlands v Croatia,third-place match,,1998-07-11,21:00,Parc des Princes,Paris,France
+580,Brazil v France,final,,1998-07-12,21:00,Stade de France,Saint-Denis,France
+581,France v Senegal,group stage,Group A,2002-05-31,20:30,Seoul World Cup Stadium,Seoul,South Korea
+582,Republic of Ireland v Cameroon,group stage,Group E,2002-06-01,15:30,Niigata Stadium,Niigata,Japan
+583,Uruguay v Denmark,group stage,Group A,2002-06-01,18:00,Ulsan Munsu Football Stadium,Ulsan,South Korea
+584,Germany v Saudi Arabia,group stage,Group E,2002-06-01,20:30,Sapporo Dome,Sapporo,Japan
+585,Argentina v Nigeria,group stage,Group F,2002-06-02,14:30,Kashima Stadium,Ibaraki,Japan
+586,Paraguay v South Africa,group stage,Group B,2002-06-02,16:30,Busan Asiad Stadium,Busan,South Korea
+587,England v Sweden,group stage,Group F,2002-06-02,18:30,Saitama Stadium,Saitama,Japan
+588,Spain v Slovenia,group stage,Group B,2002-06-02,20:30,Gwangju World Cup Stadium,Gwangju,South Korea
+589,Croatia v Mexico,group stage,Group G,2002-06-03,15:30,Niigata Stadium,Niigata,Japan
+590,Brazil v Turkey,group stage,Group C,2002-06-03,18:00,Ulsan Munsu Football Stadium,Ulsan,South Korea
+591,Italy v Ecuador,group stage,Group G,2002-06-03,20:30,Sapporo Dome,Sapporo,Japan
+592,China v Costa Rica,group stage,Group C,2002-06-04,15:30,Gwangju World Cup Stadium,Gwangju,South Korea
+593,Japan v Belgium,group stage,Group H,2002-06-04,18:00,Saitama Stadium,Saitama,Japan
+594,South Korea v Poland,group stage,Group D,2002-06-04,20:30,Busan Asiad Stadium,Busan,South Korea
+595,Russia v Tunisia,group stage,Group H,2002-06-05,15:30,Kobe Wing Stadium,Kobe,Japan
+596,United States v Portugal,group stage,Group D,2002-06-05,18:00,Suwon World Cup Stadium,Suwon,South Korea
+597,Germany v Republic of Ireland,group stage,Group E,2002-06-05,20:30,Kashima Stadium,Ibaraki,Japan
+598,Denmark v Senegal,group stage,Group A,2002-06-06,15:30,Daegu World Cup Stadium,Daegu,South Korea
+599,Cameroon v Saudi Arabia,group stage,Group E,2002-06-06,18:00,Saitama Stadium,Saitama,Japan
+600,France v Uruguay,group stage,Group A,2002-06-06,20:30,Busan Asiad Stadium,Busan,South Korea
+601,Sweden v Nigeria,group stage,Group F,2002-06-07,15:30,Kobe Wing Stadium,Kobe,Japan
+602,Spain v Paraguay,group stage,Group B,2002-06-07,18:00,Jeonju World Cup Stadium,Jeonju,South Korea
+603,Argentina v England,group stage,Group F,2002-06-07,20:30,Sapporo Dome,Sapporo,Japan
+604,South Africa v Slovenia,group stage,Group B,2002-06-08,15:30,Daegu World Cup Stadium,Daegu,South Korea
+605,Italy v Croatia,group stage,Group G,2002-06-08,18:00,Kashima Stadium,Ibaraki,Japan
+606,Brazil v China,group stage,Group C,2002-06-08,20:30,Jeju World Cup Stadium,Seogwipo,South Korea
+607,Mexico v Ecuador,group stage,Group G,2002-06-09,15:30,Miyagi Stadium,Miyagi,Japan
+608,Costa Rica v Turkey,group stage,Group C,2002-06-09,18:00,Incheon Munhak Stadium,Incheon,South Korea
+609,Japan v Russia,group stage,Group H,2002-06-09,20:30,International Stadium Yokohama,Yokohama,Japan
+610,South Korea v United States,group stage,Group D,2002-06-10,15:30,Daegu World Cup Stadium,Daegu,South Korea
+611,Tunisia v Belgium,group stage,Group H,2002-06-10,18:00,Ōita Stadium,Ōita,Japan
+612,Portugal v Poland,group stage,Group D,2002-06-10,20:30,Jeonju World Cup Stadium,Jeonju,South Korea
+613,Denmark v France,group stage,Group A,2002-06-11,15:30,Incheon Munhak Stadium,Incheon,South Korea
+614,Senegal v Uruguay,group stage,Group A,2002-06-11,15:30,Suwon World Cup Stadium,Suwon,South Korea
+615,Cameroon v Germany,group stage,Group E,2002-06-11,20:30,Shizuoka Stadium ECOPA,Shizuoka,Japan
+616,Saudi Arabia v Republic of Ireland,group stage,Group E,2002-06-11,20:30,International Stadium Yokohama,Yokohama,Japan
+617,Nigeria v England,group stage,Group F,2002-06-12,15:30,Nagai Stadium,Osaka,Japan
+618,Sweden v Argentina,group stage,Group F,2002-06-12,15:30,Miyagi Stadium,Miyagi,Japan
+619,Slovenia v Paraguay,group stage,Group B,2002-06-12,20:30,Jeju World Cup Stadium,Seogwipo,South Korea
+620,South Africa v Spain,group stage,Group B,2002-06-12,20:30,Daejeon World Cup Stadium,Daejeon,South Korea
+621,Costa Rica v Brazil,group stage,Group C,2002-06-13,15:30,Suwon World Cup Stadium,Suwon,South Korea
+622,Turkey v China,group stage,Group C,2002-06-13,15:30,Seoul World Cup Stadium,Seoul,South Korea
+623,Ecuador v Croatia,group stage,Group G,2002-06-13,20:30,International Stadium Yokohama,Yokohama,Japan
+624,Mexico v Italy,group stage,Group G,2002-06-13,20:30,Ōita Stadium,Ōita,Japan
+625,Belgium v Russia,group stage,Group H,2002-06-14,15:30,Shizuoka Stadium ECOPA,Shizuoka,Japan
+626,Tunisia v Japan,group stage,Group H,2002-06-14,15:30,Nagai Stadium,Osaka,Japan
+627,Poland v United States,group stage,Group D,2002-06-14,20:30,Daejeon World Cup Stadium,Daejeon,South Korea
+628,Portugal v South Korea,group stage,Group D,2002-06-14,20:30,Incheon Munhak Stadium,Incheon,South Korea
+629,Germany v Paraguay,round of 16,,2002-06-15,15:30,Jeju World Cup Stadium,Seogwipo,South Korea
+630,Denmark v England,round of 16,,2002-06-15,20:30,Niigata Stadium,Niigata,Japan
+631,Sweden v Senegal,round of 16,,2002-06-16,15:30,Ōita Stadium,Ōita,Japan
+632,Spain v Republic of Ireland,round of 16,,2002-06-16,20:30,Suwon World Cup Stadium,Suwon,South Korea
+633,Mexico v United States,round of 16,,2002-06-17,15:30,Jeonju World Cup Stadium,Jeonju,South Korea
+634,Brazil v Belgium,round of 16,,2002-06-17,20:30,Kobe Wing Stadium,Kobe,Japan
+635,Japan v Turkey,round of 16,,2002-06-18,15:30,Miyagi Stadium,Miyagi,Japan
+636,South Korea v Italy,round of 16,,2002-06-18,20:30,Daejeon World Cup Stadium,Daejeon,South Korea
+637,England v Brazil,quarter-finals,,2002-06-21,15:30,Shizuoka Stadium ECOPA,Shizuoka,Japan
+638,Germany v United States,quarter-finals,,2002-06-21,20:30,Ulsan Munsu Football Stadium,Ulsan,South Korea
+639,Spain v South Korea,quarter-finals,,2002-06-22,15:30,Gwangju World Cup Stadium,Gwangju,South Korea
+640,Senegal v Turkey,quarter-finals,,2002-06-22,20:30,Nagai Stadium,Osaka,Japan
+641,Germany v South Korea,semi-finals,,2002-06-25,20:30,Seoul World Cup Stadium,Seoul,South Korea
+642,Brazil v Turkey,semi-finals,,2002-06-26,20:30,Saitama Stadium,Saitama,Japan
+643,South Korea v Turkey,third-place match,,2002-06-29,20:00,Daegu World Cup Stadium,Daegu,South Korea
+644,Germany v Brazil,final,,2002-06-30,20:00,International Stadium Yokohama,Yokohama,Japan
+645,Germany v Costa Rica,group stage,Group A,2006-06-09,18:00,Allianz Arena,Munich,Germany
+646,Poland v Ecuador,group stage,Group A,2006-06-09,21:00,Arena AufShalke,Gelsenkirchen,Germany
+647,England v Paraguay,group stage,Group B,2006-06-10,15:00,Waldstadion,Frankfurt,Germany
+648,Trinidad and Tobago v Sweden,group stage,Group B,2006-06-10,18:00,Westfalenstadion,Dortmund,Germany
+649,Argentina v Ivory Coast,group stage,Group C,2006-06-10,21:00,Volksparkstadion,Hamburg,Germany
+650,Serbia and Montenegro v Netherlands,group stage,Group C,2006-06-11,15:00,Zentralstadion,Leipzig,Germany
+651,Mexico v Iran,group stage,Group D,2006-06-11,18:00,Frankenstadion,Nuremberg,Germany
+652,Angola v Portugal,group stage,Group D,2006-06-11,21:00,RheinEnergieStadion,Cologne,Germany
+653,Australia v Japan,group stage,Group F,2006-06-12,15:00,Fritz-Walter-Stadion,Kaiserslautern,Germany
+654,United States v Czech Republic,group stage,Group E,2006-06-12,18:00,Arena AufShalke,Gelsenkirchen,Germany
+655,Italy v Ghana,group stage,Group E,2006-06-12,21:00,Niedersachsenstadion,Hanover,Germany
+656,South Korea v Togo,group stage,Group G,2006-06-13,15:00,Waldstadion,Frankfurt,Germany
+657,France v Switzerland,group stage,Group G,2006-06-13,18:00,Neckarstadion,Stuttgart,Germany
+658,Brazil v Croatia,group stage,Group F,2006-06-13,21:00,Olympiastadion,Berlin,Germany
+659,Spain v Ukraine,group stage,Group H,2006-06-14,15:00,Zentralstadion,Leipzig,Germany
+660,Tunisia v Saudi Arabia,group stage,Group H,2006-06-14,18:00,Allianz Arena,Munich,Germany
+661,Germany v Poland,group stage,Group A,2006-06-14,21:00,Westfalenstadion,Dortmund,Germany
+662,Ecuador v Costa Rica,group stage,Group A,2006-06-15,15:00,Volksparkstadion,Hamburg,Germany
+663,England v Trinidad and Tobago,group stage,Group B,2006-06-15,18:00,Frankenstadion,Nuremberg,Germany
+664,Sweden v Paraguay,group stage,Group B,2006-06-15,21:00,Olympiastadion,Berlin,Germany
+665,Argentina v Serbia and Montenegro,group stage,Group C,2006-06-16,15:00,Arena AufShalke,Gelsenkirchen,Germany
+666,Netherlands v Ivory Coast,group stage,Group C,2006-06-16,18:00,Neckarstadion,Stuttgart,Germany
+667,Mexico v Angola,group stage,Group D,2006-06-16,21:00,Niedersachsenstadion,Hanover,Germany
+668,Portugal v Iran,group stage,Group D,2006-06-17,15:00,Waldstadion,Frankfurt,Germany
+669,Czech Republic v Ghana,group stage,Group E,2006-06-17,18:00,RheinEnergieStadion,Cologne,Germany
+670,Italy v United States,group stage,Group E,2006-06-17,21:00,Fritz-Walter-Stadion,Kaiserslautern,Germany
+671,Japan v Croatia,group stage,Group F,2006-06-18,15:00,Frankenstadion,Nuremberg,Germany
+672,Brazil v Australia,group stage,Group F,2006-06-18,18:00,Allianz Arena,Munich,Germany
+673,France v South Korea,group stage,Group G,2006-06-18,21:00,Zentralstadion,Leipzig,Germany
+674,Togo v Switzerland,group stage,Group G,2006-06-19,15:00,Westfalenstadion,Dortmund,Germany
+675,Saudi Arabia v Ukraine,group stage,Group H,2006-06-19,18:00,Volksparkstadion,Hamburg,Germany
+676,Spain v Tunisia,group stage,Group H,2006-06-19,21:00,Neckarstadion,Stuttgart,Germany
+677,Costa Rica v Poland,group stage,Group A,2006-06-20,16:00,Niedersachsenstadion,Hanover,Germany
+678,Ecuador v Germany,group stage,Group A,2006-06-20,16:00,Olympiastadion,Berlin,Germany
+679,Paraguay v Trinidad and Tobago,group stage,Group B,2006-06-20,21:00,Fritz-Walter-Stadion,Kaiserslautern,Germany
+680,Sweden v England,group stage,Group B,2006-06-20,21:00,RheinEnergieStadion,Cologne,Germany
+681,Iran v Angola,group stage,Group D,2006-06-21,16:00,Zentralstadion,Leipzig,Germany
+682,Portugal v Mexico,group stage,Group D,2006-06-21,16:00,Arena AufShalke,Gelsenkirchen,Germany
+683,Ivory Coast v Serbia and Montenegro,group stage,Group C,2006-06-21,21:00,Allianz Arena,Munich,Germany
+684,Netherlands v Argentina,group stage,Group C,2006-06-21,21:00,Waldstadion,Frankfurt,Germany
+685,Czech Republic v Italy,group stage,Group E,2006-06-22,16:00,Volksparkstadion,Hamburg,Germany
+686,Ghana v United States,group stage,Group E,2006-06-22,16:00,Frankenstadion,Nuremberg,Germany
+687,Croatia v Australia,group stage,Group F,2006-06-22,21:00,Neckarstadion,Stuttgart,Germany
+688,Japan v Brazil,group stage,Group F,2006-06-22,21:00,Westfalenstadion,Dortmund,Germany
+689,Saudi Arabia v Spain,group stage,Group H,2006-06-23,16:00,Fritz-Walter-Stadion,Kaiserslautern,Germany
+690,Ukraine v Tunisia,group stage,Group H,2006-06-23,16:00,Olympiastadion,Berlin,Germany
+691,Switzerland v South Korea,group stage,Group G,2006-06-23,21:00,Niedersachsenstadion,Hanover,Germany
+692,Togo v France,group stage,Group G,2006-06-23,21:00,RheinEnergieStadion,Cologne,Germany
+693,Germany v Sweden,round of 16,,2006-06-24,17:00,Allianz Arena,Munich,Germany
+694,Argentina v Mexico,round of 16,,2006-06-24,21:00,Zentralstadion,Leipzig,Germany
+695,England v Ecuador,round of 16,,2006-06-25,17:00,Neckarstadion,Stuttgart,Germany
+696,Portugal v Netherlands,round of 16,,2006-06-25,21:00,Frankenstadion,Nuremberg,Germany
+697,Italy v Australia,round of 16,,2006-06-26,17:00,Fritz-Walter-Stadion,Kaiserslautern,Germany
+698,Switzerland v Ukraine,round of 16,,2006-06-26,21:00,RheinEnergieStadion,Cologne,Germany
+699,Brazil v Ghana,round of 16,,2006-06-27,17:00,Westfalenstadion,Dortmund,Germany
+700,Spain v France,round of 16,,2006-06-27,21:00,Niedersachsenstadion,Hanover,Germany
+701,Germany v Argentina,quarter-finals,,2006-06-30,17:00,Olympiastadion,Berlin,Germany
+702,Italy v Ukraine,quarter-finals,,2006-06-30,21:00,Volksparkstadion,Hamburg,Germany
+703,England v Portugal,quarter-finals,,2006-07-01,17:00,Arena AufShalke,Gelsenkirchen,Germany
+704,Brazil v France,quarter-finals,,2006-07-01,21:00,Waldstadion,Frankfurt,Germany
+705,Germany v Italy,semi-finals,,2006-07-04,21:00,Westfalenstadion,Dortmund,Germany
+706,Portugal v France,semi-finals,,2006-07-05,21:00,Allianz Arena,Munich,Germany
+707,Germany v Portugal,third-place match,,2006-07-08,21:00,Neckarstadion,Stuttgart,Germany
+708,Italy v France,final,,2006-07-09,20:00,Olympiastadion,Berlin,Germany
+709,South Africa v Mexico,group stage,Group A,2010-06-11,16:00,Soccer City,Johannesburg,South Africa
+710,Uruguay v France,group stage,Group A,2010-06-11,20:30,Cape Town Stadium,Cape Town,South Africa
+711,South Korea v Greece,group stage,Group B,2010-06-12,13:30,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa
+712,Argentina v Nigeria,group stage,Group B,2010-06-12,16:00,Ellis Park Stadium,Johannesburg,South Africa
+713,England v United States,group stage,Group C,2010-06-12,20:30,Royal Bafokeng Stadium,Rustenburg,South Africa
+714,Algeria v Slovenia,group stage,Group C,2010-06-13,13:30,Peter Mokaba Stadium,Polokwane,South Africa
+715,Serbia v Ghana,group stage,Group D,2010-06-13,16:00,Loftus Versfeld Stadium,Pretoria,South Africa
+716,Germany v Australia,group stage,Group D,2010-06-13,20:30,Moses Mabhida Stadium,Durban,South Africa
+717,Netherlands v Denmark,group stage,Group E,2010-06-14,13:30,Soccer City,Johannesburg,South Africa
+718,Japan v Cameroon,group stage,Group E,2010-06-14,16:00,Free State Stadium,Bloemfontein,South Africa
+719,Italy v Paraguay,group stage,Group F,2010-06-14,20:30,Cape Town Stadium,Cape Town,South Africa
+720,New Zealand v Slovakia,group stage,Group F,2010-06-15,13:30,Royal Bafokeng Stadium,Rustenburg,South Africa
+721,Ivory Coast v Portugal,group stage,Group G,2010-06-15,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa
+722,Brazil v North Korea,group stage,Group G,2010-06-15,20:30,Ellis Park Stadium,Johannesburg,South Africa
+723,Honduras v Chile,group stage,Group H,2010-06-16,13:30,Mbombela Stadium,Nelspruit,South Africa
+724,Spain v Switzerland,group stage,Group H,2010-06-16,16:00,Moses Mabhida Stadium,Durban,South Africa
+725,South Africa v Uruguay,group stage,Group A,2010-06-16,20:30,Loftus Versfeld Stadium,Pretoria,South Africa
+726,Argentina v South Korea,group stage,Group B,2010-06-17,13:30,Soccer City,Johannesburg,South Africa
+727,Greece v Nigeria,group stage,Group B,2010-06-17,16:00,Free State Stadium,Bloemfontein,South Africa
+728,France v Mexico,group stage,Group A,2010-06-17,20:30,Peter Mokaba Stadium,Polokwane,South Africa
+729,Germany v Serbia,group stage,Group D,2010-06-18,13:30,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa
+730,Slovenia v United States,group stage,Group C,2010-06-18,16:00,Ellis Park Stadium,Johannesburg,South Africa
+731,England v Algeria,group stage,Group C,2010-06-18,20:30,Cape Town Stadium,Cape Town,South Africa
+732,Netherlands v Japan,group stage,Group E,2010-06-19,13:30,Moses Mabhida Stadium,Durban,South Africa
+733,Ghana v Australia,group stage,Group D,2010-06-19,16:00,Royal Bafokeng Stadium,Rustenburg,South Africa
+734,Cameroon v Denmark,group stage,Group E,2010-06-19,20:30,Loftus Versfeld Stadium,Pretoria,South Africa
+735,Slovakia v Paraguay,group stage,Group F,2010-06-20,13:30,Free State Stadium,Bloemfontein,South Africa
+736,Italy v New Zealand,group stage,Group F,2010-06-20,16:00,Mbombela Stadium,Nelspruit,South Africa
+737,Brazil v Ivory Coast,group stage,Group G,2010-06-20,20:30,Soccer City,Johannesburg,South Africa
+738,Portugal v North Korea,group stage,Group G,2010-06-21,13:30,Cape Town Stadium,Cape Town,South Africa
+739,Chile v Switzerland,group stage,Group H,2010-06-21,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa
+740,Spain v Honduras,group stage,Group H,2010-06-21,20:30,Ellis Park Stadium,Johannesburg,South Africa
+741,France v South Africa,group stage,Group A,2010-06-22,16:00,Free State Stadium,Bloemfontein,South Africa
+742,Mexico v Uruguay,group stage,Group A,2010-06-22,16:00,Royal Bafokeng Stadium,Rustenburg,South Africa
+743,Greece v Argentina,group stage,Group B,2010-06-22,20:30,Peter Mokaba Stadium,Polokwane,South Africa
+744,Nigeria v South Korea,group stage,Group B,2010-06-22,20:30,Moses Mabhida Stadium,Durban,South Africa
+745,Slovenia v England,group stage,Group C,2010-06-23,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa
+746,United States v Algeria,group stage,Group C,2010-06-23,16:00,Loftus Versfeld Stadium,Pretoria,South Africa
+747,Australia v Serbia,group stage,Group D,2010-06-23,20:30,Mbombela Stadium,Nelspruit,South Africa
+748,Ghana v Germany,group stage,Group D,2010-06-23,20:30,Soccer City,Johannesburg,South Africa
+749,Paraguay v New Zealand,group stage,Group F,2010-06-24,16:00,Peter Mokaba Stadium,Polokwane,South Africa
+750,Slovakia v Italy,group stage,Group F,2010-06-24,16:00,Ellis Park Stadium,Johannesburg,South Africa
+751,Cameroon v Netherlands,group stage,Group E,2010-06-24,20:30,Cape Town Stadium,Cape Town,South Africa
+752,Denmark v Japan,group stage,Group E,2010-06-24,20:30,Royal Bafokeng Stadium,Rustenburg,South Africa
+753,North Korea v Ivory Coast,group stage,Group G,2010-06-25,16:00,Mbombela Stadium,Nelspruit,South Africa
+754,Portugal v Brazil,group stage,Group G,2010-06-25,16:00,Moses Mabhida Stadium,Durban,South Africa
+755,Chile v Spain,group stage,Group H,2010-06-25,20:30,Loftus Versfeld Stadium,Pretoria,South Africa
+756,Switzerland v Honduras,group stage,Group H,2010-06-25,20:30,Free State Stadium,Bloemfontein,South Africa
+757,Uruguay v South Korea,round of 16,,2010-06-26,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa
+758,United States v Ghana,round of 16,,2010-06-26,20:30,Royal Bafokeng Stadium,Rustenburg,South Africa
+759,Germany v England,round of 16,,2010-06-27,16:00,Free State Stadium,Bloemfontein,South Africa
+760,Argentina v Mexico,round of 16,,2010-06-27,20:30,Soccer City,Johannesburg,South Africa
+761,Netherlands v Slovakia,round of 16,,2010-06-28,16:00,Moses Mabhida Stadium,Durban,South Africa
+762,Brazil v Chile,round of 16,,2010-06-28,20:30,Ellis Park Stadium,Johannesburg,South Africa
+763,Paraguay v Japan,round of 16,,2010-06-29,16:00,Loftus Versfeld Stadium,Pretoria,South Africa
+764,Spain v Portugal,round of 16,,2010-06-29,20:30,Cape Town Stadium,Cape Town,South Africa
+765,Netherlands v Brazil,quarter-finals,,2010-07-02,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa
+766,Uruguay v Ghana,quarter-finals,,2010-07-02,20:30,Soccer City,Johannesburg,South Africa
+767,Argentina v Germany,quarter-finals,,2010-07-03,16:00,Cape Town Stadium,Cape Town,South Africa
+768,Paraguay v Spain,quarter-finals,,2010-07-03,20:30,Ellis Park Stadium,Johannesburg,South Africa
+769,Uruguay v Netherlands,semi-finals,,2010-07-06,20:30,Cape Town Stadium,Cape Town,South Africa
+770,Germany v Spain,semi-finals,,2010-07-07,20:30,Moses Mabhida Stadium,Durban,South Africa
+771,Uruguay v Germany,third-place match,,2010-07-10,20:30,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa
+772,Netherlands v Spain,final,,2010-07-11,20:30,Soccer City,Johannesburg,South Africa
+773,Brazil v Croatia,group stage,Group A,2014-06-12,17:00,Arena Corinthians,São Paulo,Brazil
+774,Mexico v Cameroon,group stage,Group A,2014-06-13,13:00,Arena das Dunas,Natal,Brazil
+775,Spain v Netherlands,group stage,Group B,2014-06-13,16:00,Arena Fonte Nova,Salvador,Brazil
+776,Chile v Australia,group stage,Group B,2014-06-13,18:00,Arena Pantanal,Cuiabá,Brazil
+777,Colombia v Greece,group stage,Group C,2014-06-14,13:00,Estádio Mineirão,Belo Horizonte,Brazil
+778,Uruguay v Costa Rica,group stage,Group D,2014-06-14,16:00,Estádio Castelão,Fortaleza,Brazil
+779,England v Italy,group stage,Group D,2014-06-14,18:00,Arena da Amazônia,Manaus,Brazil
+780,Ivory Coast v Japan,group stage,Group C,2014-06-14,22:00,Arena Pernambuco,Recife,Brazil
+781,Switzerland v Ecuador,group stage,Group E,2014-06-15,13:00,Estádio Nacional,Brasília,Brazil
+782,France v Honduras,group stage,Group E,2014-06-15,16:00,Estádio Beira-Rio,Porto Alegre,Brazil
+783,Argentina v Bosnia and Herzegovina,group stage,Group F,2014-06-15,19:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+784,Germany v Portugal,group stage,Group G,2014-06-16,13:00,Arena Fonte Nova,Salvador,Brazil
+785,Iran v Nigeria,group stage,Group F,2014-06-16,16:00,Arena da Baixada,Curitiba,Brazil
+786,Ghana v United States,group stage,Group G,2014-06-16,19:00,Arena das Dunas,Natal,Brazil
+787,Belgium v Algeria,group stage,Group H,2014-06-17,13:00,Estádio Mineirão,Belo Horizonte,Brazil
+788,Brazil v Mexico,group stage,Group A,2014-06-17,16:00,Estádio Castelão,Fortaleza,Brazil
+789,Russia v South Korea,group stage,Group H,2014-06-17,18:00,Arena Pantanal,Cuiabá,Brazil
+790,Australia v Netherlands,group stage,Group B,2014-06-18,13:00,Estádio Beira-Rio,Porto Alegre,Brazil
+791,Spain v Chile,group stage,Group B,2014-06-18,16:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+792,Cameroon v Croatia,group stage,Group A,2014-06-18,18:00,Arena da Amazônia,Manaus,Brazil
+793,Colombia v Ivory Coast,group stage,Group C,2014-06-19,13:00,Estádio Nacional,Brasília,Brazil
+794,Uruguay v England,group stage,Group D,2014-06-19,16:00,Arena Corinthians,São Paulo,Brazil
+795,Japan v Greece,group stage,Group C,2014-06-19,19:00,Arena das Dunas,Natal,Brazil
+796,Italy v Costa Rica,group stage,Group D,2014-06-20,13:00,Arena Pernambuco,Recife,Brazil
+797,Switzerland v France,group stage,Group E,2014-06-20,16:00,Arena Fonte Nova,Salvador,Brazil
+798,Honduras v Ecuador,group stage,Group E,2014-06-20,19:00,Arena da Baixada,Curitiba,Brazil
+799,Argentina v Iran,group stage,Group F,2014-06-21,13:00,Estádio Mineirão,Belo Horizonte,Brazil
+800,Germany v Ghana,group stage,Group G,2014-06-21,16:00,Estádio Castelão,Fortaleza,Brazil
+801,Nigeria v Bosnia and Herzegovina,group stage,Group F,2014-06-21,18:00,Arena Pantanal,Cuiabá,Brazil
+802,Belgium v Russia,group stage,Group H,2014-06-22,13:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+803,South Korea v Algeria,group stage,Group H,2014-06-22,16:00,Estádio Beira-Rio,Porto Alegre,Brazil
+804,United States v Portugal,group stage,Group G,2014-06-22,18:00,Arena da Amazônia,Manaus,Brazil
+805,Australia v Spain,group stage,Group B,2014-06-23,13:00,Arena da Baixada,Curitiba,Brazil
+806,Netherlands v Chile,group stage,Group B,2014-06-23,13:00,Arena Corinthians,São Paulo,Brazil
+807,Cameroon v Brazil,group stage,Group A,2014-06-23,17:00,Estádio Nacional,Brasília,Brazil
+808,Croatia v Mexico,group stage,Group A,2014-06-23,17:00,Arena Pernambuco,Recife,Brazil
+809,Costa Rica v England,group stage,Group D,2014-06-24,13:00,Estádio Mineirão,Belo Horizonte,Brazil
+810,Italy v Uruguay,group stage,Group D,2014-06-24,13:00,Arena das Dunas,Natal,Brazil
+811,Japan v Colombia,group stage,Group C,2014-06-24,16:00,Arena Pantanal,Cuiabá,Brazil
+812,Greece v Ivory Coast,group stage,Group C,2014-06-24,17:00,Estádio Castelão,Fortaleza,Brazil
+813,Bosnia and Herzegovina v Iran,group stage,Group F,2014-06-25,13:00,Arena Fonte Nova,Salvador,Brazil
+814,Nigeria v Argentina,group stage,Group F,2014-06-25,13:00,Estádio Beira-Rio,Porto Alegre,Brazil
+815,Honduras v Switzerland,group stage,Group E,2014-06-25,16:00,Arena da Amazônia,Manaus,Brazil
+816,Ecuador v France,group stage,Group E,2014-06-25,17:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+817,Portugal v Ghana,group stage,Group G,2014-06-26,13:00,Estádio Nacional,Brasília,Brazil
+818,United States v Germany,group stage,Group G,2014-06-26,13:00,Arena Pernambuco,Recife,Brazil
+819,Algeria v Russia,group stage,Group H,2014-06-26,17:00,Arena da Baixada,Curitiba,Brazil
+820,South Korea v Belgium,group stage,Group H,2014-06-26,17:00,Arena Corinthians,São Paulo,Brazil
+821,Brazil v Chile,round of 16,,2014-06-28,13:00,Estádio Mineirão,Belo Horizonte,Brazil
+822,Colombia v Uruguay,round of 16,,2014-06-28,17:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+823,Netherlands v Mexico,round of 16,,2014-06-29,13:00,Estádio Castelão,Fortaleza,Brazil
+824,Costa Rica v Greece,round of 16,,2014-06-29,17:00,Arena Pernambuco,Recife,Brazil
+825,France v Nigeria,round of 16,,2014-06-30,13:00,Estádio Nacional,Brasília,Brazil
+826,Germany v Algeria,round of 16,,2014-06-30,17:00,Estádio Beira-Rio,Porto Alegre,Brazil
+827,Argentina v Switzerland,round of 16,,2014-07-01,13:00,Arena Corinthians,São Paulo,Brazil
+828,Belgium v United States,round of 16,,2014-07-01,17:00,Arena Fonte Nova,Salvador,Brazil
+829,France v Germany,quarter-finals,,2014-07-04,13:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+830,Brazil v Colombia,quarter-finals,,2014-07-04,17:00,Estádio Castelão,Fortaleza,Brazil
+831,Argentina v Belgium,quarter-finals,,2014-07-05,13:00,Estádio Nacional,Brasília,Brazil
+832,Netherlands v Costa Rica,quarter-finals,,2014-07-05,17:00,Arena Fonte Nova,Salvador,Brazil
+833,Brazil v Germany,semi-finals,,2014-07-08,17:00,Estádio Mineirão,Belo Horizonte,Brazil
+834,Netherlands v Argentina,semi-finals,,2014-07-09,17:00,Arena Corinthians,São Paulo,Brazil
+835,Brazil v Netherlands,third-place match,,2014-07-12,17:00,Estádio Nacional,Brasília,Brazil
+836,Germany v Argentina,final,,2014-07-13,16:00,Estádio do Maracanã,Rio de Janeiro,Brazil
+837,Russia v Saudi Arabia,group stage,Group A,2018-06-14,18:00,Luzhniki Stadium,Moscow,Russia
+838,Egypt v Uruguay,group stage,Group A,2018-06-15,17:00,Central Stadium,Yekaterinburg,Russia
+839,Morocco v Iran,group stage,Group B,2018-06-15,18:00,Krestovsky Stadium,Saint Petersburg,Russia
+840,Portugal v Spain,group stage,Group B,2018-06-15,21:00,Fisht Olympic Stadium,Sochi,Russia
+841,France v Australia,group stage,Group C,2018-06-16,13:00,Kazan Arena,Kazan,Russia
+842,Argentina v Iceland,group stage,Group D,2018-06-16,16:00,Otkritie Arena,Moscow,Russia
+843,Peru v Denmark,group stage,Group C,2018-06-16,19:00,Mordovia Arena,Saransk,Russia
+844,Croatia v Nigeria,group stage,Group D,2018-06-16,21:00,Kaliningrad Stadium,Kaliningrad,Russia
+845,Costa Rica v Serbia,group stage,Group E,2018-06-17,16:00,Samara Arena,Samara,Russia
+846,Germany v Mexico,group stage,Group F,2018-06-17,18:00,Luzhniki Stadium,Moscow,Russia
+847,Brazil v Switzerland,group stage,Group E,2018-06-17,21:00,Rostov Arena,Rostov-on-Don,Russia
+848,Sweden v South Korea,group stage,Group F,2018-06-18,15:00,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia
+849,Belgium v Panama,group stage,Group G,2018-06-18,18:00,Fisht Olympic Stadium,Sochi,Russia
+850,Tunisia v England,group stage,Group G,2018-06-18,21:00,Volgograd Arena,Volgograd,Russia
+851,Colombia v Japan,group stage,Group H,2018-06-19,15:00,Mordovia Arena,Saransk,Russia
+852,Poland v Senegal,group stage,Group H,2018-06-19,18:00,Otkritie Arena,Moscow,Russia
+853,Russia v Egypt,group stage,Group A,2018-06-19,21:00,Krestovsky Stadium,Saint Petersburg,Russia
+854,Portugal v Morocco,group stage,Group B,2018-06-20,15:00,Luzhniki Stadium,Moscow,Russia
+855,Uruguay v Saudi Arabia,group stage,Group A,2018-06-20,18:00,Rostov Arena,Rostov-on-Don,Russia
+856,Iran v Spain,group stage,Group B,2018-06-20,21:00,Kazan Arena,Kazan,Russia
+857,Denmark v Australia,group stage,Group C,2018-06-21,16:00,Samara Arena,Samara,Russia
+858,France v Peru,group stage,Group C,2018-06-21,20:00,Central Stadium,Yekaterinburg,Russia
+859,Argentina v Croatia,group stage,Group D,2018-06-21,21:00,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia
+860,Brazil v Costa Rica,group stage,Group E,2018-06-22,15:00,Krestovsky Stadium,Saint Petersburg,Russia
+861,Nigeria v Iceland,group stage,Group D,2018-06-22,18:00,Volgograd Arena,Volgograd,Russia
+862,Serbia v Switzerland,group stage,Group E,2018-06-22,20:00,Kaliningrad Stadium,Kaliningrad,Russia
+863,Belgium v Tunisia,group stage,Group G,2018-06-23,15:00,Otkritie Arena,Moscow,Russia
+864,South Korea v Mexico,group stage,Group F,2018-06-23,18:00,Rostov Arena,Rostov-on-Don,Russia
+865,Germany v Sweden,group stage,Group F,2018-06-23,21:00,Fisht Olympic Stadium,Sochi,Russia
+866,England v Panama,group stage,Group G,2018-06-24,15:00,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia
+867,Japan v Senegal,group stage,Group H,2018-06-24,20:00,Central Stadium,Yekaterinburg,Russia
+868,Poland v Colombia,group stage,Group H,2018-06-24,21:00,Kazan Arena,Kazan,Russia
+869,Saudi Arabia v Egypt,group stage,Group A,2018-06-25,17:00,Volgograd Arena,Volgograd,Russia
+870,Uruguay v Russia,group stage,Group A,2018-06-25,18:00,Samara Arena,Samara,Russia
+871,Spain v Morocco,group stage,Group B,2018-06-25,20:00,Kaliningrad Stadium,Kaliningrad,Russia
+872,Iran v Portugal,group stage,Group B,2018-06-25,21:00,Mordovia Arena,Saransk,Russia
+873,Australia v Peru,group stage,Group C,2018-06-26,17:00,Fisht Olympic Stadium,Sochi,Russia
+874,Denmark v France,group stage,Group C,2018-06-26,17:00,Luzhniki Stadium,Moscow,Russia
+875,Iceland v Croatia,group stage,Group D,2018-06-26,21:00,Rostov Arena,Rostov-on-Don,Russia
+876,Nigeria v Argentina,group stage,Group D,2018-06-26,21:00,Krestovsky Stadium,Saint Petersburg,Russia
+877,South Korea v Germany,group stage,Group F,2018-06-27,17:00,Kazan Arena,Kazan,Russia
+878,Mexico v Sweden,group stage,Group F,2018-06-27,19:00,Central Stadium,Yekaterinburg,Russia
+879,Serbia v Brazil,group stage,Group E,2018-06-27,21:00,Otkritie Arena,Moscow,Russia
+880,Switzerland v Costa Rica,group stage,Group E,2018-06-27,21:00,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia
+881,Japan v Poland,group stage,Group H,2018-06-28,17:00,Volgograd Arena,Volgograd,Russia
+882,Senegal v Colombia,group stage,Group H,2018-06-28,18:00,Samara Arena,Samara,Russia
+883,England v Belgium,group stage,Group G,2018-06-28,20:00,Kaliningrad Stadium,Kaliningrad,Russia
+884,Panama v Tunisia,group stage,Group G,2018-06-28,21:00,Mordovia Arena,Saransk,Russia
+885,France v Argentina,round of 16,,2018-06-30,17:00,Kazan Arena,Kazan,Russia
+886,Uruguay v Portugal,round of 16,,2018-06-30,21:00,Fisht Olympic Stadium,Sochi,Russia
+887,Spain v Russia,round of 16,,2018-07-01,17:00,Luzhniki Stadium,Moscow,Russia
+888,Croatia v Denmark,round of 16,,2018-07-01,21:00,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia
+889,Brazil v Mexico,round of 16,,2018-07-02,18:00,Samara Arena,Samara,Russia
+890,Belgium v Japan,round of 16,,2018-07-02,21:00,Rostov Arena,Rostov-on-Don,Russia
+891,Sweden v Switzerland,round of 16,,2018-07-03,17:00,Krestovsky Stadium,Saint Petersburg,Russia
+892,Colombia v England,round of 16,,2018-07-03,21:00,Otkritie Arena,Moscow,Russia
+893,Uruguay v France,quarter-finals,,2018-07-06,17:00,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia
+894,Brazil v Belgium,quarter-finals,,2018-07-06,21:00,Kazan Arena,Kazan,Russia
+895,Sweden v England,quarter-finals,,2018-07-07,18:00,Samara Arena,Samara,Russia
+896,Russia v Croatia,quarter-finals,,2018-07-07,21:00,Fisht Olympic Stadium,Sochi,Russia
+897,France v Belgium,semi-finals,,2018-07-10,21:00,Krestovsky Stadium,Saint Petersburg,Russia
+898,Croatia v England,semi-finals,,2018-07-11,21:00,Luzhniki Stadium,Moscow,Russia
+899,Belgium v England,third-place match,,2018-07-14,17:00,Krestovsky Stadium,Saint Petersburg,Russia
+900,France v Croatia,final,,2018-07-15,18:00,Luzhniki Stadium,Moscow,Russia

@@ -1,0 +1,133 @@
+key_id,tournament_name,award_name,family_name,given_name,team_name
+1,1930 FIFA World Cup,Golden Boot,Stábile,Guillermo,Argentina
+2,1930 FIFA World Cup,Silver Boot,Cea,Pedro,Uruguay
+3,1930 FIFA World Cup,Bronze Boot,Patenaude,Bert,United States
+4,1934 FIFA World Cup,Golden Boot,Nejedlý,Oldřich,Czechoslovakia
+5,1934 FIFA World Cup,Silver Boot,Conen,Edmund,Germany
+6,1934 FIFA World Cup,Silver Boot,Schiavio,Angelo,Italy
+7,1938 FIFA World Cup,Golden Boot,Leônidas,not applicable,Brazil
+8,1938 FIFA World Cup,Silver Boot,Piola,Silvio,Italy
+9,1938 FIFA World Cup,Silver Boot,Sárosi,György,Hungary
+10,1938 FIFA World Cup,Silver Boot,Zsengellér,Gyula,Hungary
+11,1950 FIFA World Cup,Golden Boot,Ademir,not applicable,Brazil
+12,1950 FIFA World Cup,Silver Boot,Míguez,Oscar,Uruguay
+13,1950 FIFA World Cup,Bronze Boot,Basora,Estanislau,Spain
+14,1950 FIFA World Cup,Bronze Boot,Chico,not applicable,Brazil
+15,1950 FIFA World Cup,Bronze Boot,Zarra,Telmo,Spain
+16,1954 FIFA World Cup,Golden Boot,Kocsis,Sándor,Hungary
+17,1954 FIFA World Cup,Silver Boot,Hügi,Josef,Switzerland
+18,1954 FIFA World Cup,Silver Boot,Morlock,Max,West Germany
+19,1954 FIFA World Cup,Silver Boot,Probst,Erich,Austria
+20,1958 FIFA World Cup,Golden Boot,Fontaine,Just,France
+21,1958 FIFA World Cup,Silver Boot,Pelé,not applicable,Brazil
+22,1958 FIFA World Cup,Silver Boot,Rahn,Helmut,West Germany
+23,1958 FIFA World Cup,Best Young Player,Pelé,not applicable,Brazil
+24,1962 FIFA World Cup,Golden Boot,Albert,Flórián,Hungary
+25,1962 FIFA World Cup,Golden Boot,Garrincha,not applicable,Brazil
+26,1962 FIFA World Cup,Golden Boot,Ivanov,Valentin,Soviet Union
+27,1962 FIFA World Cup,Golden Boot,Jerković,Dražan,Yugoslavia
+28,1962 FIFA World Cup,Golden Boot,Sánchez,Leonel,Chile
+29,1962 FIFA World Cup,Golden Boot,Vavá,not applicable,Brazil
+30,1962 FIFA World Cup,Best Young Player,Albert,Flórián,Hungary
+31,1966 FIFA World Cup,Golden Boot,Eusébio,not applicable,Portugal
+32,1966 FIFA World Cup,Silver Boot,Haller,Helmut,West Germany
+33,1966 FIFA World Cup,Bronze Boot,Beckenbauer,Franz,West Germany
+34,1966 FIFA World Cup,Bronze Boot,Bene,Ferenc,Hungary
+35,1966 FIFA World Cup,Bronze Boot,Hurst,Geoff,England
+36,1966 FIFA World Cup,Bronze Boot,Porkujan,Valeriy,Soviet Union
+37,1966 FIFA World Cup,Best Young Player,Beckenbauer,Franz,West Germany
+38,1970 FIFA World Cup,Golden Boot,Müller,Gerd,West Germany
+39,1970 FIFA World Cup,Silver Boot,Jairzinho,not applicable,Brazil
+40,1970 FIFA World Cup,Bronze Boot,Cubillas,Teófilo,Peru
+41,1970 FIFA World Cup,Best Young Player,Cubillas,Teófilo,Peru
+42,1974 FIFA World Cup,Golden Boot,Lato,Grzegorz,Poland
+43,1974 FIFA World Cup,Silver Boot,Neeskens,Johan,Netherlands
+44,1974 FIFA World Cup,Silver Boot,Szarmach,Andrzej,Poland
+45,1974 FIFA World Cup,Best Young Player,Żmuda,Władysław,Poland
+46,1978 FIFA World Cup,Golden Ball,Kempes,Mario,Argentina
+47,1978 FIFA World Cup,Silver Ball,Rossi,Paolo,Italy
+48,1978 FIFA World Cup,Bronze Ball,Dirceu,not applicable,Brazil
+49,1978 FIFA World Cup,Golden Boot,Kempes,Mario,Argentina
+50,1978 FIFA World Cup,Silver Boot,Cubillas,Teófilo,Peru
+51,1978 FIFA World Cup,Bronze Boot,Rensenbrink,Rob,Netherlands
+52,1978 FIFA World Cup,Best Young Player,Cabrini,Antonio,Italy
+53,1982 FIFA World Cup,Golden Ball,Rossi,Paolo,Italy
+54,1982 FIFA World Cup,Silver Ball,Falcão,not applicable,Brazil
+55,1982 FIFA World Cup,Bronze Ball,Rummenigge,Karl-Heinz,West Germany
+56,1982 FIFA World Cup,Golden Boot,Rossi,Paolo,Italy
+57,1982 FIFA World Cup,Silver Boot,Rummenigge,Karl-Heinz,West Germany
+58,1982 FIFA World Cup,Bronze Boot,Zico,not applicable,Brazil
+59,1982 FIFA World Cup,Best Young Player,Amoros,Manuel,France
+60,1986 FIFA World Cup,Golden Ball,Maradona,Diego,Argentina
+61,1986 FIFA World Cup,Silver Ball,Schumacher,Harald,West Germany
+62,1986 FIFA World Cup,Bronze Ball,Elkjær,Preben,Denmark
+63,1986 FIFA World Cup,Golden Boot,Lineker,Gary,England
+64,1986 FIFA World Cup,Silver Boot,Butragueño,Emilio,Spain
+65,1986 FIFA World Cup,Silver Boot,Careca,not applicable,Brazil
+66,1986 FIFA World Cup,Silver Boot,Maradona,Diego,Argentina
+67,1986 FIFA World Cup,Best Young Player,Scifo,Enzo,Belgium
+68,1990 FIFA World Cup,Golden Ball,Schillaci,Salvatore,Italy
+69,1990 FIFA World Cup,Silver Ball,Matthäus,Lothar,West Germany
+70,1990 FIFA World Cup,Bronze Ball,Maradona,Diego,Argentina
+71,1990 FIFA World Cup,Golden Boot,Schillaci,Salvatore,Italy
+72,1990 FIFA World Cup,Silver Boot,Skuhravý,Tomáš,Czechoslovakia
+73,1990 FIFA World Cup,Bronze Boot,Lineker,Gary,England
+74,1990 FIFA World Cup,Bronze Boot,Milla,Roger,Cameroon
+75,1990 FIFA World Cup,Best Young Player,Prosinečki,Robert,Yugoslavia
+76,1994 FIFA World Cup,Golden Ball,Romário,not applicable,Brazil
+77,1994 FIFA World Cup,Silver Ball,Baggio,Roberto,Italy
+78,1994 FIFA World Cup,Bronze Ball,Stoichkov,Hristo,Bulgaria
+79,1994 FIFA World Cup,Golden Boot,Salenko,Oleg,Russia
+80,1994 FIFA World Cup,Golden Boot,Stoichkov,Hristo,Bulgaria
+81,1994 FIFA World Cup,Bronze Boot,Andersson,Kennet,Sweden
+82,1994 FIFA World Cup,Bronze Boot,Romário,not applicable,Brazil
+83,1994 FIFA World Cup,Golden Glove,Preud'homme,Michel,Belgium
+84,1994 FIFA World Cup,Best Young Player,Overmars,Marc,Netherlands
+85,1998 FIFA World Cup,Golden Ball,Ronaldo,not applicable,Brazil
+86,1998 FIFA World Cup,Silver Ball,Šuker,Davor,Croatia
+87,1998 FIFA World Cup,Bronze Ball,Thuram,Lilian,France
+88,1998 FIFA World Cup,Golden Boot,Šuker,Davor,Croatia
+89,1998 FIFA World Cup,Silver Boot,Batistuta,Gabriel,Argentina
+90,1998 FIFA World Cup,Silver Boot,Vieri,Christian,Italy
+91,1998 FIFA World Cup,Golden Glove,Barthez,Fabien,France
+92,1998 FIFA World Cup,Best Young Player,Owen,Michael,England
+93,2002 FIFA World Cup,Golden Ball,Kahn,Oliver,Germany
+94,2002 FIFA World Cup,Silver Ball,Ronaldo,not applicable,Brazil
+95,2002 FIFA World Cup,Bronze Ball,Hong,Myung-bo,South Korea
+96,2002 FIFA World Cup,Golden Boot,Ronaldo,not applicable,Brazil
+97,2002 FIFA World Cup,Silver Boot,Klose,Miroslav,Germany
+98,2002 FIFA World Cup,Silver Boot,Rivaldo,not applicable,Brazil
+99,2002 FIFA World Cup,Golden Glove,Kahn,Oliver,Germany
+100,2002 FIFA World Cup,Best Young Player,Donovan,Landon,United States
+101,2006 FIFA World Cup,Golden Ball,Zidane,Zinedine,France
+102,2006 FIFA World Cup,Silver Ball,Cannavaro,Fabio,Italy
+103,2006 FIFA World Cup,Bronze Ball,Pirlo,Andrea,Italy
+104,2006 FIFA World Cup,Golden Boot,Klose,Miroslav,Germany
+105,2006 FIFA World Cup,Silver Boot,Crespo,Hernán,Argentina
+106,2006 FIFA World Cup,Bronze Boot,Ronaldo,not applicable,Brazil
+107,2006 FIFA World Cup,Golden Glove,Buffon,Gianluigi,Italy
+108,2006 FIFA World Cup,Best Young Player,Podolski,Lukas,Germany
+109,2010 FIFA World Cup,Golden Ball,Forlán,Diego,Uruguay
+110,2010 FIFA World Cup,Silver Ball,Sneijder,Wesley,Netherlands
+111,2010 FIFA World Cup,Bronze Ball,Villa,David,Spain
+112,2010 FIFA World Cup,Golden Boot,Müller,Thomas,Germany
+113,2010 FIFA World Cup,Silver Boot,Villa,David,Spain
+114,2010 FIFA World Cup,Bronze Boot,Sneijder,Wesley,Netherlands
+115,2010 FIFA World Cup,Golden Glove,Casillas,Iker,Spain
+116,2010 FIFA World Cup,Best Young Player,Müller,Thomas,Germany
+117,2014 FIFA World Cup,Golden Ball,Messi,Lionel,Argentina
+118,2014 FIFA World Cup,Silver Ball,Müller,Thomas,Germany
+119,2014 FIFA World Cup,Bronze Ball,Robben,Arjen,Netherlands
+120,2014 FIFA World Cup,Golden Boot,Rodríguez,James,Colombia
+121,2014 FIFA World Cup,Silver Boot,Müller,Thomas,Germany
+122,2014 FIFA World Cup,Bronze Boot,Neymar,not applicable,Brazil
+123,2014 FIFA World Cup,Golden Glove,Neuer,Manuel,Germany
+124,2014 FIFA World Cup,Best Young Player,Pogba,Paul,France
+125,2018 FIFA World Cup,Golden Ball,Modrić,Luka,Croatia
+126,2018 FIFA World Cup,Silver Ball,Hazard,Eden,Belgium
+127,2018 FIFA World Cup,Bronze Ball,Griezmann,Antoine,France
+128,2018 FIFA World Cup,Golden Boot,Kane,Harry,England
+129,2018 FIFA World Cup,Silver Boot,Griezmann,Antoine,France
+130,2018 FIFA World Cup,Bronze Boot,Lukaku,Romelu,Belgium
+131,2018 FIFA World Cup,Golden Glove,Courtois,Thibaut,Belgium
+132,2018 FIFA World Cup,Best Young Player,Mbappé,Kylian,France
